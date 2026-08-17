@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+WARNING: The structure of this XML is not final.
+In later versions of FFDec it can be changed.
+Make sure you use compatible reader/writer based on _xmlExportMajor/_xmlExportMinor keys.
+--><swf _xmlExportMajor="2" _xmlExportMinor="2" _generator="JPEXS Free Flash Decompiler v.26.2.1" type="SWF" charset="UTF-8" compression="NONE" encrypted="false" frameCount="6" frameRate="30.0" gfx="true" hasEndTag="true" version="12">
+  <displayRect type="RECT" Xmax="38400" Xmin="0" Ymax="21600" Ymin="0" nbits="17"/>
+  <tags>
+    <item type="ExporterInfo" bitmapFormat="13" flags="0" forceWriteAsLong="true" prefix="" swfName="WindowPause" version="1025">
+      <codeOffsets>
+        <item>1335</item>
+        <item>56086</item>
+        <item>56121</item>
+        <item>70301</item>
+        <item>70537</item>
+        <item>70843</item>
+        <item>70986</item>
+        <item>71111</item>
+        <item>71213</item>
+        <item>152505</item>
+        <item>152540</item>
+        <item>164458</item>
+        <item>164617</item>
+        <item>164934</item>
+        <item>165065</item>
+        <item>165206</item>
+        <item>171547</item>
+        <item>171582</item>
+        <item>171604</item>
+        <item>171763</item>
+        <item>172080</item>
+        <item>172211</item>
+        <item>172352</item>
+        <item>177872</item>
+        <item>177907</item>
+        <item>177929</item>
+        <item>178088</item>
+        <item>178405</item>
+        <item>178536</item>
+        <item>178677</item>
+        <item>187177</item>
+        <item>187212</item>
+        <item>187234</item>
+        <item>187382</item>
+        <item>187699</item>
+        <item>187830</item>
+        <item>187971</item>
+        <item>188127</item>
+        <item>188179</item>
+        <item>188259</item>
+        <item>188373</item>
+        <item>188383</item>
+        <item>188581</item>
+        <item>188849</item>
+        <item>189033</item>
+        <item>189076</item>
+        <item>189123</item>
+        <item>190970</item>
+      </codeOffsets>
+    </item>
+    <item type="FileAttributesTag" actionScript3="false" forceWriteAsLong="false" hasMetadata="true" noCrossDomainCache="false" reservedA="false" reservedB="0" swfRelativeUrls="false" useDirectBlit="false" useGPU="false" useNetwork="false"/>
+    <item type="MetadataTag" forceWriteAsLong="true" xmlMetadata="&lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt; &lt;rdf:Description rdf:about=&quot;&quot; xmlns:xmp=&quot;http://ns.adobe.com/xap/1.0/&quot;&gt; &lt;xmp:CreatorTool&gt;Adobe Flash Professional CS5.5 - build 325&lt;/xmp:CreatorTool&gt; &lt;xmp:CreateDate&gt;2014-07-08T20:46:35+09:00&lt;/xmp:CreateDate&gt; &lt;xmp:MetadataDate&gt;2016-09-16T14:09:43+09:00&lt;/xmp:MetadataDate&gt; &lt;xmp:ModifyDate&gt;2016-09-16T14:09:43+09:00&lt;/xmp:ModifyDate&gt; &lt;/rdf:Description&gt; &lt;rdf:Description rdf:about=&quot;&quot; xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;&gt; &lt;dc:format&gt;application/x-shockwave-flash&lt;/dc:format&gt; &lt;/rdf:Description&gt; &lt;rdf:Description rdf:about=&quot;&quot; xmlns:xmpMM=&quot;http://ns.adobe.com/xap/1.0/mm/&quot; xmlns:stRef=&quot;http://ns.adobe.com/xap/1.0/sType/ResourceRef#&quot;&gt; &lt;xmpMM:DerivedFrom rdf:parseType=&quot;Resource&quot;&gt; &lt;stRef:instanceID&gt;xmp.iid:319E47B7C07BE611BA39BF3171328476&lt;/stRef:instanceID&gt; &lt;stRef:documentID&gt;xmp.did:DCCFA23A3550E4119C9796C3B7715608&lt;/stRef:documentID&gt; &lt;stRef:originalDocumentID&gt;xmp.did:0F215AA89506E4119387F97B92299F8D&lt;/stRef:originalDocumentID&gt; &lt;/xmpMM:DerivedFrom&gt; &lt;xmpMM:DocumentID&gt;xmp.did:339E47B7C07BE611BA39BF3171328476&lt;/xmpMM:DocumentID&gt; &lt;xmpMM:InstanceID&gt;xmp.iid:339E47B7C07BE611BA39BF3171328476&lt;/xmpMM:InstanceID&gt; &lt;xmpMM:OriginalDocumentID&gt;xmp.did:0F215AA89506E4119387F97B92299F8D&lt;/xmpMM:OriginalDocumentID&gt; &lt;/rdf:Description&gt; &lt;/rdf:RDF&gt; "/>
+    <item type="SetBackgroundColorTag" forceWriteAsLong="false">
+      <backgroundColor type="RGB" blue="255" green="255" red="255"/>
+    </item>
+    <item type="DoActionTag" actionBytes="88860126004c616e676167654944005365744c616e676167654944466f7255450047657441534c616e67616765494400666c6173680065787465726e616c0045787465726e616c496e746572666163650063616c6c004c6f63616c697a65496e6974005f76697369626c6500686f72697a6f6e74616c00676f746f416e64506c617900766572746963616c00766572746963616c53756200696e0057696e646f774d616e75416c6c4f626a006f7574005f78005f79006d656e750057696e646f774d616e754f626a00627574746f6e4d656e753000746578744d656e7500746578740044657374696e79427574746f6e4f626a006869740068697454657374006261736500486974546573744d656e75427574746f6e004c414e474147455f49445f454e47004c414e474147455f49445f4a504e004c616e676167655461674c697374004a706e00456e67005f726f6f740077696e646f774d656e75416c6c0077696e646f774d656e7500627574746f6e44657374696e7900446f6b694865726f696e65496e6974009b11004c6f63616c697a65496e69740000001f00960b0008000600000000000000001d960b0006000000000000000008013d178e19005365744c616e676167654944466f725545000000022a002f009609000802070100000008031c96020008044e96020008054e96020008065287010001179606000800040108004e1d9b1400446f6b694865726f696e65496e69740000001000960b0006000000000000000008073d178e2100536574416c6c56697369626c65000100036a000253657456697369626c65000a009606000401080804024f8e1500536574486f72697a6f6e74616c000000026a001000960b00080907010000000401080a52178e1300536574566572746963616c000000026a001000960b00080b07010000000401080a52178e1600536574566572746963616c537562000000026a001000960b00080c07010000000401080a52179b1300537461727450617573654d656e750000001400960900080d0701000000080e1c960200080a52179b1100456e6450617573654d656e750000001400960900080f0701000000080e1c960200080a52178e2500536574506f736974696f6e000200032a0002536574506f73580001536574506f7359001c00960200080e1c960400081004024f960200080e1c960400081104014f8e1c00536574427574746f6e4e756d000100022a00015365744e756d001a009604000812040147960700070100000008131c960200080a52178e2c00536574427574746f6e54657874000200032a0002536574546578740001536574427574746f6e4e756d0049009607000401070100000048124c129d02000d0017960700040107040000006712129d0200230096020008131c96040008140401474e96020008124e96020008154e960400081604024f8e3300536574427574746f6e416e696d65000200032a0002536574416e696d654c6162656c0001536574427574746f6e4e756d0043009607000401070100000048124c129d02000d0017960700040107040000006712129d02001d009609000402070100000008131c96040008140401474e960200080a52178e2c0053657444657374696e79427574746f6e416e696d65000100022a0001536574416e696d654c6162656c0014009609000401070100000008171c960200080a52178e2b0053657444657374696e79427574746f6e56697369626c65000100022a000153657456697369626c65000e0096020008171c960400080804014f8e2e004869745465737444657374696e79427574746f6e000200032a0002536574506f73580001536574506f7359003e00960d00050104010402070300000008171c96020008184e960200081952129d02000e0096050007010000003e9902000d009609000600000000000000003e8e3900486974546573744d656e75427574746f6e000300042a0003536574506f73580002536574506f73590001536574427574746f6e4e756d006b009607000401070100000048124c129d02000d0017960700040107040000006712129d02004500960b0004020403070200000008131c96040008140401474e960200081a4e960200081952129d02000e0096050007010000003e9902000d009609000600000000000000003e8e3100486974546573744d656e75427574746f6e4e756d626572000200042a0003536574506f73580002536574506f7359006100960100038701000117960500070100000087010001179607000401070500000048129d02002d00960d000401040204030703000000081b3d129d0200060096020004013e9602000401508701000117990200c2ff9609000600000000000000003e960b00081c0600000000000000003c960700081d07010000003c960200080041960b00081e081f08200702000000423c960400080e08211c96020008224e3c960400081308211c96020008224e96020008234e3c9604000817080e1c96020008244e3c960b0006000000000000000008253d1700" forceWriteAsLong="true"/>
+    <item type="FrameLabelTag" forceWriteAsLong="true" name="horizontal" namedAnchor="false"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="1">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="1280" Ymin="-1280" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="1" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" fillStyleType="0">
+              <color type="RGB" blue="0" green="224" red="255"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="1" moveBits="12" moveDeltaX="1280" moveDeltaY="1280" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-2560" generalLineFlag="false" numBits="11" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="2560" generalLineFlag="false" numBits="11" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="1" hasEndTag="true" spriteId="2">
+      <subTags>
+        <item type="PlaceObject2Tag" characterId="1" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="3" exportName="" fileName="WindowPause_I3.tga" forceWriteAsLong="false" idType="0" imageID="3" targetHeight="128" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="4">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="640" Ymin="-640" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="3" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-640"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="640" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="5" exportName="" fileName="WindowPause_I5.tga" forceWriteAsLong="false" idType="0" imageID="5" targetHeight="128" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="6">
+      <shapeBounds type="RECT" Xmax="5120" Xmin="0" Ymax="1280" Ymin="0" nbits="14"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="5" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="0" scaleX="10.0" scaleY="10.0" translateX="0" translateY="0"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="14" moveDeltaX="5120" moveDeltaY="1280" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="7" exportName="" fileName="WindowPause_I7.tga" forceWriteAsLong="false" idType="0" imageID="7" targetHeight="128" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="8">
+      <shapeBounds type="RECT" Xmax="5120" Xmin="0" Ymax="1280" Ymin="0" nbits="14"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="7" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="0" scaleX="10.0" scaleY="10.0" translateX="0" translateY="0"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="14" moveDeltaX="5120" moveDeltaY="1280" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="10" hasEndTag="true" spriteId="9">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Eng" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="6" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Jpn" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="8" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="10" exportName="" fileName="WindowPause_IA.tga" forceWriteAsLong="false" idType="0" imageID="10" targetHeight="128" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="11">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="640" Ymin="-640" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="10" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-640"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="640" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="1" hasEndTag="true" spriteId="12">
+      <subTags>
+        <item type="PlaceObject2Tag" characterId="11" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="41" hasEndTag="true" spriteId="13">
+      <subTags>
+        <item type="DoActionTag" actionBytes="884c000800626173654c697374005f76697369626c6500746578744c69737400686974005f726f6f74004c616e676167655461674c697374004c616e67616765494400676f746f416e64506c61790096020008001c960400080105014f96020008021c960400080105014f96020008031c960400080105004f96020008041c96020008054e96020008041c96020008064e4e960700070100000008021c9602000807521700" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="up" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="2" depth="1" forceWriteAsLong="true" name="hit" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.875" scaleY="0.5" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="4" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="9" depth="6" forceWriteAsLong="true" name="textList" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-2560" translateY="-640"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="over" namedAnchor="false"/>
+        <item type="PlaceObject3Tag" blendMode="8" characterId="12" depth="4" forceWriteAsLong="false" placeFlagHasBlendMode="true" placeFlagHasCacheAsBitmap="false" placeFlagHasCharacter="true" placeFlagHasClassName="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasFilterList="false" placeFlagHasImage="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagHasVisible="false" placeFlagMove="false" placeFlagOpaqueBackground="false" ratio="2" reserved="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="26" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="41" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="59" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="74" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="92" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="108" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="174" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="174" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="108" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="92" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="74" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="59" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="41" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8c05006f766572000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="26" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="down" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0208282" scaleY="1.0208282" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="128" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0416565" scaleY="1.0416565" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0625" scaleY="1.0625" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0833282" scaleY="1.0833282" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.1041565" scaleY="1.1041565" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="962a000043616c6c4261636b446f776e44657374696e79427574746f6e456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="4" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.125" scaleY="1.125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="4" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8821000400626173654c697374005f76697369626c6500746578744c697374006869740096020008001c960400080105004f96020008021c960400080105004f96020008031c960400080105004f00" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="disabled" namedAnchor="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="14" exportName="" fileName="WindowPause_IE.tga" forceWriteAsLong="false" idType="0" imageID="14" targetHeight="1024" targetWidth="1024"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="15">
+      <shapeBounds type="RECT" Xmax="5120" Xmin="-5120" Ymax="5120" Ymin="-5120" nbits="14"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="14" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="14" scaleX="10.0" scaleY="10.0" translateX="-5120" translateY="-5120"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="14" moveDeltaX="-5120" moveDeltaY="-5120" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="10240" generalLineFlag="false" numBits="13" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="10240" generalLineFlag="false" numBits="13" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="-10240" generalLineFlag="false" numBits="13" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-10240" generalLineFlag="false" numBits="13" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="16" exportName="" fileName="WindowPause_I10.tga" forceWriteAsLong="false" idType="0" imageID="16" targetHeight="128" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="17">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="640" Ymin="-640" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="16" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-640"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="640" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="1" hasEndTag="true" spriteId="18">
+      <subTags>
+        <item type="PlaceObject2Tag" characterId="17" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="19" exportName="" fileName="WindowPause_I13.tga" forceWriteAsLong="false" idType="0" imageID="19" targetHeight="64" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="20">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="320" Ymin="-320" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="19" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="21" exportName="" fileName="WindowPause_I15.tga" forceWriteAsLong="false" idType="0" imageID="21" targetHeight="64" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="22">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="320" Ymin="-320" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="21" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="10" hasEndTag="true" spriteId="23">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Eng" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="20" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Jpn" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="22" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="24" exportName="" fileName="WindowPause_I18.tga" forceWriteAsLong="false" idType="0" imageID="24" targetHeight="128" targetWidth="1024"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="25">
+      <shapeBounds type="RECT" Xmax="5120" Xmin="-5120" Ymax="640" Ymin="-640" nbits="14"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="24" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="14" scaleX="10.0" scaleY="10.0" translateX="-5120" translateY="-640"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="14" moveDeltaX="5120" moveDeltaY="640" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-10240" generalLineFlag="false" numBits="13" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="10240" generalLineFlag="false" numBits="13" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="1280" generalLineFlag="false" numBits="10" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="1" hasEndTag="true" spriteId="26">
+      <subTags>
+        <item type="PlaceObject2Tag" characterId="25" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="41" hasEndTag="true" spriteId="27">
+      <subTags>
+        <item type="DoActionTag" actionBytes="88320005005f726f6f74004c616e676167655461674c697374004c616e676167654944006d656e7500676f746f416e64506c61790096020008001c96020008014e96020008001c96020008024e4e960700070100000008031c9602000804521700" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="up" namedAnchor="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="base" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="18" depth="1" forceWriteAsLong="true" name="base" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="23" depth="5" forceWriteAsLong="true" name="menu" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="over" namedAnchor="false"/>
+        <item type="PlaceObject3Tag" blendMode="8" characterId="26" depth="3" forceWriteAsLong="false" placeFlagHasBlendMode="true" placeFlagHasCacheAsBitmap="false" placeFlagHasCharacter="true" placeFlagHasClassName="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasFilterList="false" placeFlagHasImage="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagHasVisible="false" placeFlagMove="false" placeFlagOpaqueBackground="false" ratio="2" reserved="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaAddTerm="0" alphaMultTerm="256" blueAddTerm="255" blueMultTerm="-118" greenAddTerm="255" greenMultTerm="-238" hasAddTerms="true" hasMultTerms="true" nbits="10" redAddTerm="255" redMultTerm="-253"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8c05006f766572000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="down" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="128" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.03125" scaleY="1.03125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0625" scaleY="1.0625" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.09375" scaleY="1.09375" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9623000043616c6c4261636b446f776e427574746f6e456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.125" scaleY="1.125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="3" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="disabled" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="28" exportName="" fileName="WindowPause_I1C.tga" forceWriteAsLong="false" idType="0" imageID="28" targetHeight="64" targetWidth="256"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="29">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="320" Ymin="-320" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="28" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="12" scaleX="10.0" scaleY="10.0" translateX="-1280" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="12" moveDeltaX="1280" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="30" exportName="" fileName="WindowPause_I1E.tga" forceWriteAsLong="false" idType="0" imageID="30" targetHeight="64" targetWidth="256"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="31">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="320" Ymin="-320" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="30" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="12" scaleX="10.0" scaleY="10.0" translateX="-1280" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="12" moveDeltaX="1280" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="10" hasEndTag="true" spriteId="32">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Eng" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="29" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Jpn" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="31" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="41" hasEndTag="true" spriteId="33">
+      <subTags>
+        <item type="DoActionTag" actionBytes="88320005005f726f6f74004c616e676167655461674c697374004c616e676167654944006d656e7500676f746f416e64506c61790096020008001c96020008014e96020008001c96020008024e4e960700070100000008031c9602000804521700" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="up" namedAnchor="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="base" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="18" depth="1" forceWriteAsLong="true" name="base" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="32" depth="5" forceWriteAsLong="true" name="menu" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="over" namedAnchor="false"/>
+        <item type="PlaceObject3Tag" blendMode="8" characterId="26" depth="3" forceWriteAsLong="false" placeFlagHasBlendMode="true" placeFlagHasCacheAsBitmap="false" placeFlagHasCharacter="true" placeFlagHasClassName="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasFilterList="false" placeFlagHasImage="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagHasVisible="false" placeFlagMove="false" placeFlagOpaqueBackground="false" ratio="2" reserved="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaAddTerm="0" alphaMultTerm="256" blueAddTerm="255" blueMultTerm="-118" greenAddTerm="255" greenMultTerm="-238" hasAddTerms="true" hasMultTerms="true" nbits="10" redAddTerm="255" redMultTerm="-253"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8c05006f766572000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="down" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="128" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.03125" scaleY="1.03125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0625" scaleY="1.0625" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.09375" scaleY="1.09375" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9623000043616c6c4261636b446f776e427574746f6e456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.125" scaleY="1.125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="3" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="disabled" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="34" exportName="" fileName="WindowPause_I22.tga" forceWriteAsLong="false" idType="0" imageID="34" targetHeight="64" targetWidth="256"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="35">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="320" Ymin="-320" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="34" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="12" scaleX="10.0" scaleY="10.0" translateX="-1280" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="12" moveDeltaX="1280" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="36" exportName="" fileName="WindowPause_I24.tga" forceWriteAsLong="false" idType="0" imageID="36" targetHeight="64" targetWidth="256"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="37">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="320" Ymin="-320" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="36" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="12" scaleX="10.0" scaleY="10.0" translateX="-1280" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="12" moveDeltaX="1280" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="10" hasEndTag="true" spriteId="38">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Eng" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="35" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Jpn" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="37" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="41" hasEndTag="true" spriteId="39">
+      <subTags>
+        <item type="DoActionTag" actionBytes="88320005005f726f6f74004c616e676167655461674c697374004c616e676167654944006d656e7500676f746f416e64506c61790096020008001c96020008014e96020008001c96020008024e4e960700070100000008031c9602000804521700" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="up" namedAnchor="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="base" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="18" depth="1" forceWriteAsLong="true" name="base" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="38" depth="5" forceWriteAsLong="true" name="menu" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="over" namedAnchor="false"/>
+        <item type="PlaceObject3Tag" blendMode="8" characterId="26" depth="3" forceWriteAsLong="false" placeFlagHasBlendMode="true" placeFlagHasCacheAsBitmap="false" placeFlagHasCharacter="true" placeFlagHasClassName="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasFilterList="false" placeFlagHasImage="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagHasVisible="false" placeFlagMove="false" placeFlagOpaqueBackground="false" ratio="2" reserved="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaAddTerm="0" alphaMultTerm="256" blueAddTerm="255" blueMultTerm="-118" greenAddTerm="255" greenMultTerm="-238" hasAddTerms="true" hasMultTerms="true" nbits="10" redAddTerm="255" redMultTerm="-253"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8c05006f766572000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="down" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="128" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.03125" scaleY="1.03125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0625" scaleY="1.0625" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.09375" scaleY="1.09375" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9623000043616c6c4261636b446f776e427574746f6e456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.125" scaleY="1.125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="3" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="disabled" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="40" exportName="" fileName="WindowPause_I28.tga" forceWriteAsLong="false" idType="0" imageID="40" targetHeight="64" targetWidth="512"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="41">
+      <shapeBounds type="RECT" Xmax="2560" Xmin="-2560" Ymax="320" Ymin="-320" nbits="13"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="40" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="13" scaleX="10.0" scaleY="10.0" translateX="-2560" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="13" moveDeltaX="2560" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="5120" generalLineFlag="false" numBits="12" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineExternalImage2" bitmapFormat="13" characterID="42" exportName="" fileName="WindowPause_I2A.tga" forceWriteAsLong="false" idType="0" imageID="42" targetHeight="64" targetWidth="256"/>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="43">
+      <shapeBounds type="RECT" Xmax="1280" Xmin="-1280" Ymax="320" Ymin="-320" nbits="12"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="2" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" bitmapId="65535" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="22" nTranslateBits="0" scaleX="20.0" scaleY="20.0" translateX="0" translateY="0"/>
+            </item>
+            <item type="FILLSTYLE" bitmapId="42" fillStyleType="65">
+              <bitmapMatrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="21" nTranslateBits="12" scaleX="10.0" scaleY="10.0" translateX="-1280" translateY="-320"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="2" moveBits="12" moveDeltaX="1280" moveDeltaY="320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="-2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="2560" generalLineFlag="false" numBits="11" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="10" hasEndTag="true" spriteId="44">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Eng" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="41" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="Jpn" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="43" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="41" hasEndTag="true" spriteId="45">
+      <subTags>
+        <item type="DoActionTag" actionBytes="88320005005f726f6f74004c616e676167655461674c697374004c616e676167654944006d656e7500676f746f416e64506c61790096020008001c96020008014e96020008001c96020008024e4e960700070100000008031c9602000804521700" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="up" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="18" depth="1" forceWriteAsLong="true" name="base" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="44" depth="5" forceWriteAsLong="true" name="menu" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="over" namedAnchor="false"/>
+        <item type="PlaceObject3Tag" blendMode="8" characterId="26" depth="3" forceWriteAsLong="false" placeFlagHasBlendMode="true" placeFlagHasCacheAsBitmap="false" placeFlagHasCharacter="true" placeFlagHasClassName="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasFilterList="false" placeFlagHasImage="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagHasVisible="false" placeFlagMove="false" placeFlagOpaqueBackground="false" ratio="2" reserved="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaAddTerm="0" alphaMultTerm="256" blueAddTerm="255" blueMultTerm="-118" greenAddTerm="255" greenMultTerm="-238" hasAddTerms="true" hasMultTerms="true" nbits="10" redAddTerm="255" redMultTerm="-253"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="236" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="218" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="197" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="179" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="159" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="141" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="120" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="102" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="82" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="8c05006f766572000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="64" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="down" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="128" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.03125" scaleY="1.03125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.0625" scaleY="1.0625" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.09375" scaleY="1.09375" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9623000043616c6c4261636b446f776e427574746f6e456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="18" nTranslateBits="0" scaleX="1.125" scaleY="1.125" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="3" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="disabled" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="5" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="4" hasEndTag="true" spriteId="46">
+      <subTags>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="menu4" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="15" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="27" depth="2" forceWriteAsLong="true" name="buttonMenu01" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="12" translateX="0" translateY="-1680"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="33" depth="8" forceWriteAsLong="true" name="buttonMenu02" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="11" translateX="0" translateY="-560"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="39" depth="14" forceWriteAsLong="true" name="buttonMenu03" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="11" translateX="0" translateY="560"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="45" depth="20" forceWriteAsLong="true" name="buttonMenu04" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="12" translateX="0" translateY="1680"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="RemoveObject2Tag" depth="14" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="menu3" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" depth="2" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="12" translateX="0" translateY="-1120"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="8" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="20" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="12" translateX="0" translateY="1120"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineShapeTag" forceWriteAsLong="true" shapeId="47">
+      <shapeBounds type="RECT" Xmax="320" Xmin="-320" Ymax="320" Ymin="-320" nbits="10"/>
+      <shapes type="SHAPEWITHSTYLE" numFillBits="1" numLineBits="0">
+        <fillStyles type="FILLSTYLEARRAY">
+          <fillStyles>
+            <item type="FILLSTYLE" fillStyleType="0">
+              <color type="RGB" blue="0" green="0" red="0"/>
+            </item>
+          </fillStyles>
+        </fillStyles>
+        <lineStyles type="LINESTYLEARRAY">
+          <lineStyles/>
+        </lineStyles>
+        <shapeRecords>
+          <item type="StyleChangeRecord" fillStyle1="1" moveBits="10" moveDeltaX="-320" moveDeltaY="-320" stateFillStyle0="false" stateFillStyle1="true" stateLineStyle="false" stateMoveTo="true" stateNewStyles="false"/>
+          <item type="StraightEdgeRecord" deltaX="640" generalLineFlag="false" numBits="9" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="StraightEdgeRecord" deltaX="-640" generalLineFlag="false" numBits="9" vertLineFlag="false"/>
+          <item type="StraightEdgeRecord" deltaY="-640" generalLineFlag="false" numBits="9" vertLineFlag="true"/>
+          <item type="EndShapeRecord" endOfShape="0"/>
+        </shapeRecords>
+      </shapes>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="1" hasEndTag="true" spriteId="48">
+      <subTags>
+        <item type="PlaceObject2Tag" characterId="47" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="DefineSpriteTag" forceWriteAsLong="true" frameCount="12" hasEndTag="true" spriteId="49">
+      <subTags>
+        <item type="DoActionTag" actionBytes="9606000074686973001c960c00005f76697369626c650005004f00" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="null" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="13" depth="3" forceWriteAsLong="true" name="buttonDestiny" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="4000"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" characterId="46" depth="10" forceWriteAsLong="true" name="windowMenu" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="10" translateX="0" translateY="320"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9606000074686973001c960c00005f76697369626c650005014f00" forceWriteAsLong="true"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="in" namedAnchor="false"/>
+        <item type="PlaceObject2Tag" characterId="48" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="true" placeFlagMove="false" ratio="2">
+          <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="24" nTranslateBits="0" scaleX="64.0" scaleY="64.0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="38" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3920"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="9" translateX="0" translateY="241"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="77" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3840"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="9" translateX="0" translateY="161"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="115" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3760"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="189" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="8" translateX="0" translateY="81"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="189" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9622000043616c6c4261636b4d656e755374617274456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c0052170700" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="154" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3680"/>
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="0" translateX="0" translateY="0"/>
+          <colorTransform type="CXFORMWITHALPHA" hasAddTerms="false" hasMultTerms="false" nbits="1"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="FrameLabelTag" forceWriteAsLong="true" name="out" namedAnchor="false"/>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="115" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3760"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="8" translateX="0" translateY="80"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="192" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="77" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3840"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="9" translateX="0" translateY="161"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="125" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="38" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="3920"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="9" translateX="0" translateY="241"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="61" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+        <item type="DoActionTag" actionBytes="9620000043616c6c4261636b4d656e75456e64456e6400070100000000666c617368001c960a000065787465726e616c004e9613000045787465726e616c496e74657266616365004e9606000063616c6c005217078c05006e756c6c000600" forceWriteAsLong="true"/>
+        <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="false" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="3" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="13" translateX="-960" translateY="4000"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="PlaceObject2Tag" depth="10" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="true" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+          <matrix type="MATRIX" hasRotate="false" hasScale="false" nRotateBits="0" nScaleBits="0" nTranslateBits="10" translateX="0" translateY="320"/>
+          <colorTransform type="CXFORMWITHALPHA" alphaMultTerm="0" blueMultTerm="256" greenMultTerm="256" hasAddTerms="false" hasMultTerms="true" nbits="10" redMultTerm="256"/>
+        </item>
+        <item type="ShowFrameTag" forceWriteAsLong="false"/>
+      </subTags>
+    </item>
+    <item type="PlaceObject2Tag" characterId="49" depth="1" forceWriteAsLong="true" name="windowMenuAll" placeFlagHasCharacter="true" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="true" placeFlagHasRatio="false" placeFlagMove="false">
+      <matrix type="MATRIX" hasRotate="false" hasScale="true" nRotateBits="0" nScaleBits="19" nTranslateBits="15" scaleX="2.0" scaleY="2.0" translateX="11520" translateY="9600"/>
+    </item>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+    <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+    <item type="FrameLabelTag" forceWriteAsLong="true" name="vertical" namedAnchor="false"/>
+    <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+      <matrix type="MATRIX" hasRotate="true" hasScale="true" nRotateBits="19" nScaleBits="1" nTranslateBits="15" rotateSkew0="-2.0" rotateSkew1="2.0" scaleX="0.0" scaleY="0.0" translateX="14080" translateY="10880"/>
+    </item>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+    <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+    <item type="FrameLabelTag" forceWriteAsLong="true" name="verticalSub" namedAnchor="false"/>
+    <item type="PlaceObject2Tag" depth="1" forceWriteAsLong="false" placeFlagHasCharacter="false" placeFlagHasClipActions="false" placeFlagHasClipDepth="false" placeFlagHasColorTransform="false" placeFlagHasMatrix="true" placeFlagHasName="false" placeFlagHasRatio="false" placeFlagMove="true">
+      <matrix type="MATRIX" hasRotate="true" hasScale="true" nRotateBits="19" nScaleBits="1" nTranslateBits="16" rotateSkew0="2.0" rotateSkew1="-2.0" scaleX="0.0" scaleY="0.0" translateX="24960" translateY="10880"/>
+    </item>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+    <item type="DoActionTag" actionBytes="88860126004c616e676167654944005365744c616e676167654944466f7255450047657441534c616e67616765494400666c6173680065787465726e616c0045787465726e616c496e746572666163650063616c6c004c6f63616c697a65496e6974005f76697369626c6500686f72697a6f6e74616c00676f746f416e64506c617900766572746963616c00766572746963616c53756200696e0057696e646f774d616e75416c6c4f626a006f7574005f78005f79006d656e750057696e646f774d616e754f626a00627574746f6e4d656e753000746578744d656e7500746578740044657374696e79427574746f6e4f626a006869740068697454657374006261736500486974546573744d656e75427574746f6e004c414e474147455f49445f454e47004c414e474147455f49445f4a504e004c616e676167655461674c697374004a706e00456e67005f726f6f740077696e646f774d656e75416c6c0077696e646f774d656e7500627574746f6e44657374696e7900446f6b694865726f696e65496e6974009b11004c6f63616c697a65496e69740000001f00960b0008000600000000000000001d960b0006000000000000000008013d178e19005365744c616e676167654944466f725545000000022a002f009609000802070100000008031c96020008044e96020008054e96020008065287010001179606000800040108004e1d9b1400446f6b694865726f696e65496e69740000001000960b0006000000000000000008073d178e2100536574416c6c56697369626c65000100036a000253657456697369626c65000a009606000401080804024f8e1500536574486f72697a6f6e74616c000000026a001000960b00080907010000000401080a52178e1300536574566572746963616c000000026a001000960b00080b07010000000401080a52178e1600536574566572746963616c537562000000026a001000960b00080c07010000000401080a52179b1300537461727450617573654d656e750000001400960900080d0701000000080e1c960200080a52179b1100456e6450617573654d656e750000001400960900080f0701000000080e1c960200080a52178e2500536574506f736974696f6e000200032a0002536574506f73580001536574506f7359001c00960200080e1c960400081004024f960200080e1c960400081104014f8e1c00536574427574746f6e4e756d000100022a00015365744e756d001a009604000812040147960700070100000008131c960200080a52178e2c00536574427574746f6e54657874000200032a0002536574546578740001536574427574746f6e4e756d0049009607000401070100000048124c129d02000d0017960700040107040000006712129d0200230096020008131c96040008140401474e96020008124e96020008154e960400081604024f8e3300536574427574746f6e416e696d65000200032a0002536574416e696d654c6162656c0001536574427574746f6e4e756d0043009607000401070100000048124c129d02000d0017960700040107040000006712129d02001d009609000402070100000008131c96040008140401474e960200080a52178e2c0053657444657374696e79427574746f6e416e696d65000100022a0001536574416e696d654c6162656c0014009609000401070100000008171c960200080a52178e2b0053657444657374696e79427574746f6e56697369626c65000100022a000153657456697369626c65000e0096020008171c960400080804014f8e2e004869745465737444657374696e79427574746f6e000200032a0002536574506f73580001536574506f7359003e00960d00050104010402070300000008171c96020008184e960200081952129d02000e0096050007010000003e9902000d009609000600000000000000003e8e3900486974546573744d656e75427574746f6e000300042a0003536574506f73580002536574506f73590001536574427574746f6e4e756d006b009607000401070100000048124c129d02000d0017960700040107040000006712129d02004500960b0004020403070200000008131c96040008140401474e960200081a4e960200081952129d02000e0096050007010000003e9902000d009609000600000000000000003e8e3100486974546573744d656e75427574746f6e4e756d626572000200042a0003536574506f73580002536574506f7359006100960100038701000117960500070100000087010001179607000401070500000048129d02002d00960d000401040204030703000000081b3d129d0200060096020004013e9602000401508701000117990200c2ff9609000600000000000000003e960b00081c0600000000000000003c960700081d07010000003c960200080041960b00081e081f08200702000000423c960400080e08211c96020008224e3c960400081308211c96020008224e96020008234e3c9604000817080e1c96020008244e3c960b0006000000000000000008253d1700" forceWriteAsLong="true"/>
+    <item type="DoActionTag" actionBytes="0700" forceWriteAsLong="true"/>
+    <item type="ShowFrameTag" forceWriteAsLong="false"/>
+  </tags>
+</swf>

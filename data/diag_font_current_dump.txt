@@ -1,0 +1,916 @@
+﻿Found 1809 game files (56 skipped) in 1028 folders at path "D:/SteamLibrary/steamapps/common/GalGun Double Peace/GG2Game/CookedPC"
+Scanned game directory in 0.1 sec, 4201 allocs, 0.00 MBytes serialized in 0 calls.
+Loading package: Startup_LOC_INT.upk Ver: 871/0 Engine: 10897 Names: 106 Exports: 54 Imports: 6 Game: 800000
+Loading Texture2D Texture2D_28 from package Startup_LOC_INT.upk
+UTexture2D Texture2D_28: dropping 28 bytes
+Loading Texture2D Texture2D_29 from package Startup_LOC_INT.upk
+UTexture2D Texture2D_29: dropping 28 bytes
+Loading Texture2D MessageFont_PageA from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageA: dropping 28 bytes
+Loading Texture2D MessageFont_PageB from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageB: dropping 28 bytes
+Loading Texture2D MessageFont_PageBA from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBA: dropping 28 bytes
+Loading Texture2D MessageFont_PageBB from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBB: dropping 28 bytes
+Loading Texture2D MessageFont_PageBC from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBC: dropping 28 bytes
+Loading Texture2D MessageFont_PageBD from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBD: dropping 28 bytes
+Loading Texture2D MessageFont_PageBE from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBE: dropping 28 bytes
+Loading Texture2D MessageFont_PageBF from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBF: dropping 28 bytes
+Loading Texture2D MessageFont_PageBG from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBG: dropping 28 bytes
+Loading Texture2D MessageFont_PageBH from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBH: dropping 28 bytes
+Loading Texture2D MessageFont_PageBI from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBI: dropping 28 bytes
+Loading Texture2D MessageFont_PageBJ from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBJ: dropping 28 bytes
+Loading Texture2D MessageFont_PageBK from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBK: dropping 28 bytes
+Loading Texture2D MessageFont_PageBL from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBL: dropping 28 bytes
+Loading Texture2D MessageFont_PageBM from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBM: dropping 28 bytes
+Loading Texture2D MessageFont_PageBN from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBN: dropping 28 bytes
+Loading Texture2D MessageFont_PageBO from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBO: dropping 28 bytes
+Loading Texture2D MessageFont_PageBP from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBP: dropping 28 bytes
+Loading Texture2D MessageFont_PageBQ from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBQ: dropping 28 bytes
+Loading Texture2D MessageFont_PageBR from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBR: dropping 28 bytes
+Loading Texture2D MessageFont_PageBS from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBS: dropping 28 bytes
+Loading Texture2D MessageFont_PageBT from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageBT: dropping 28 bytes
+Loading Texture2D MessageFont_PageC from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageC: dropping 28 bytes
+Loading Texture2D MessageFont_PageD from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageD: dropping 28 bytes
+Loading Texture2D MessageFont_PageE from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageE: dropping 28 bytes
+Loading Texture2D MessageFont_PageF from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageF: dropping 28 bytes
+Loading Texture2D MessageFont_PageG from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageG: dropping 28 bytes
+Loading Texture2D MessageFont_PageH from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageH: dropping 28 bytes
+Loading Texture2D MessageFont_PageI from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageI: dropping 28 bytes
+Loading Texture2D MessageFont_PageJ from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageJ: dropping 28 bytes
+Loading Texture2D MessageFont_PageK from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageK: dropping 28 bytes
+Loading Texture2D MessageFont_PageL from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageL: dropping 28 bytes
+Loading Texture2D MessageFont_PageM from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageM: dropping 28 bytes
+Loading Texture2D MessageFont_PageN from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageN: dropping 28 bytes
+Loading Texture2D MessageFont_PageO from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageO: dropping 28 bytes
+Loading Texture2D MessageFont_PageP from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageP: dropping 28 bytes
+Loading Texture2D MessageFont_PageQ from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageQ: dropping 28 bytes
+Loading Texture2D MessageFont_PageR from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageR: dropping 28 bytes
+Loading Texture2D MessageFont_PageS from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageS: dropping 28 bytes
+Loading Texture2D MessageFont_PageT from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageT: dropping 28 bytes
+Loading Texture2D MessageFont_PageU from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageU: dropping 28 bytes
+Loading Texture2D MessageFont_PageV from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageV: dropping 28 bytes
+Loading Texture2D MessageFont_PageW from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageW: dropping 28 bytes
+Loading Texture2D MessageFont_PageX from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageX: dropping 28 bytes
+Loading Texture2D MessageFont_PageY from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageY: dropping 28 bytes
+Loading Texture2D MessageFont_PageZ from package Startup_LOC_INT.upk
+UTexture2D MessageFont_PageZ: dropping 28 bytes
+Loaded in 0.0 sec, 224 allocs, 3.03 MBytes serialized in 99 calls.
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Texture2D_28
+    SizeX = 256
+    SizeY = 256
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = Textures
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Default (0)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: Texture2D_29
+    SizeX = 256
+    SizeY = 128
+    Format = PF_DXT5 (7)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = Textures
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Default (0)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageA
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageB
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBA
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBB
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBC
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBD
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBE
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBF
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBG
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBH
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBI
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBJ
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBK
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBL
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBM
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBN
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBO
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBP
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBQ
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBR
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBS
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageBT
+    SizeX = 256
+    SizeY = 128
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageC
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageD
+    SizeX = 256
+    SizeY = 512
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageE
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageF
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageG
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageH
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageI
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageJ
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageK
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageL
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageM
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageN
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageO
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageP
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageQ
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageR
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageS
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageT
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageU
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageV
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageW
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageX
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageY
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 
+
+Object info:
+============
+ClassName: Texture2D ObjectName: MessageFont_PageZ
+    SizeX = 256
+    SizeY = 256
+    Format = PF_G8 (3)
+    AddressX = TA_Wrap (0)
+    AddressY = TA_Wrap (0)
+    TextureFileCacheName = None
+    MipTailBaseIdx = 0
+    ImportedSize = { X=0, Y=0 }
+    bForcePVRTC4 = false
+    UnpackMin[4] = { 0, 0, 0, 0 }
+    UnpackMax[4] = { 1, 1, 1, 1 }
+    CompressionSettings = TC_Displacementmap (4)
+    Source = 

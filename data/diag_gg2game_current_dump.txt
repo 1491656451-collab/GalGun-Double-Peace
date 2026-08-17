@@ -1,0 +1,16 @@
+﻿Found 1809 game files (56 skipped) in 1028 folders at path "D:/SteamLibrary/steamapps/common/GalGun Double Peace/GG2Game/CookedPC"
+umodel_64.exe : ******** Loading object AnimSequence'GG2Game.AnimSequence_299' ********
+At line:2 char:56
++ ... _dump.txt'; & 'D:\GALGUNVV\tools\umodel\umodel_64.exe' -game=ue3 -pat ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (******** Loadin...e_299' ********:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+Scanned game directory in 0.1 sec, 4201 allocs, 0.00 MBytes serialized in 0 calls.
+Loading package: GG2Game.u Ver: 871/0 Engine: 10897 Names: 33319 Exports: 56902 Imports: 623 Game: 800000
+Loading AnimSet minikurona from package GG2Game.u
+*** ERROR: RawArray item size mismatch: expected 12, serialized 20
+
+SerializeBulkArray <- FRawAnimSequenceTrack<< <- TArray::Serialize: 1/11 <- UAnimSequence::Serialize <- LoadObject: Ani
+mSequence'GG2Game.AnimSequence_299', pos=E503DF, ver=871/0, game=ue3 <- UObject::EndLoad <- Main: umodel_build=1590
+

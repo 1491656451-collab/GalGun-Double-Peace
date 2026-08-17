@@ -1,0 +1,750 @@
+### Aoi_1_map.xxx
+   7    2840C     102C GG2CollectionText Text_Aoi_1_CHT
+   8    29438     1122 GG2CollectionText Text_Aoi_1_ENG
+   9    2A55A     1102 GG2CollectionText Text_Aoi_1_JPN
+  10    2B65C     10F8 GG2CollectionText Text_Aoi_1_KOR
+### Aoi_2_map.xxx
+   8    26146      D3F GG2CollectionText Text_Aoi_2_CHT
+   9    26E85      DA0 GG2CollectionText Text_Aoi_2_ENG
+  10    27C25      D75 GG2CollectionText Text_Aoi_2_JPN
+  11    2899A      D95 GG2CollectionText Text_Aoi_2_KOR
+### Aoi_3_map.xxx
+   7    2F485     1262 GG2CollectionText Text_Aoi_3_CHT
+   8    306E7     1343 GG2CollectionText Text_Aoi_3_ENG
+   9    31A2A     1314 GG2CollectionText Text_Aoi_3_JPN
+  10    32D3E     1350 GG2CollectionText Text_Aoi_3_KOR
+### Aoi_4_map.xxx
+   6    1BBEC      BE5 GG2CollectionText Text_Aoi_4_CHT
+   7    1C7D1      C39 GG2CollectionText Text_Aoi_4_ENG
+   8    1D40A      C4B GG2CollectionText Text_Aoi_4_JPN
+   9    1E055      C57 GG2CollectionText Text_Aoi_4_KOR
+### Aoi_5_map.xxx
+   7    25C03      F16 GG2CollectionText Text_Aoi_5_CHT
+   8    26B19      FF8 GG2CollectionText Text_Aoi_5_ENG
+   9    27B11      F84 GG2CollectionText Text_Aoi_5_JPN
+  10    28A95      F84 GG2CollectionText Text_Aoi_5_KOR
+### Aoi_6_map.xxx
+   7    541C7     2105 GG2CollectionText Text_Aoi_6_CHT
+   8    562CC     22FA GG2CollectionText Text_Aoi_6_ENG
+   9    585C6     234F GG2CollectionText Text_Aoi_6_JPN
+  10    5A915     2377 GG2CollectionText Text_Aoi_6_KOR
+### Common_ep1_1_map.xxx
+   6    30F91     1213 GG2CollectionText Text_Common_ep1_1_CHT
+   7    321A4     1306 GG2CollectionText Text_Common_ep1_1_ENG
+   8    334AA     1295 GG2CollectionText Text_Common_ep1_1_JPN
+   9    3473F     12B7 GG2CollectionText Text_Common_ep1_1_KOR
+### Common_ep1_2_map.xxx
+   7    7D973     2C64 GG2CollectionText Text_Common_ep1_2_CHT
+   8    805D7     30BB GG2CollectionText Text_Common_ep1_2_ENG
+   9    83692     2F2E GG2CollectionText Text_Common_ep1_2_JPN
+  10    865C0     2F1C GG2CollectionText Text_Common_ep1_2_KOR
+### Common_ep1_3_map.xxx
+   6    295F4     10D3 GG2CollectionText Text_Common_ep1_3_CHT
+   7    2A6C7     11AC GG2CollectionText Text_Common_ep1_3_ENG
+   8    2B873     118D GG2CollectionText Text_Common_ep1_3_JPN
+   9    2CA00     119B GG2CollectionText Text_Common_ep1_3_KOR
+### Common_ep1_4_map.xxx
+   5    1A90E      C39 GG2CollectionText Text_Common_ep1_4_CHT
+   6    1B547      D19 GG2CollectionText Text_Common_ep1_4_ENG
+   7    1C260      CD1 GG2CollectionText Text_Common_ep1_4_JPN
+   8    1CF31      CED GG2CollectionText Text_Common_ep1_4_KOR
+### Common_ep1_5_map.xxx
+   6   290792     E05A GG2CollectionText Text_Common_ep1_5_CHT
+   7   29E7EC     EDAC GG2CollectionText Text_Common_ep1_5_ENG
+   8   2AD598     ED0C GG2CollectionText Text_Common_ep1_5_JPN
+   9   2BC2A4     EC6E GG2CollectionText Text_Common_ep1_5_KOR
+### Common_Prologue_map.xxx
+   6    522AB     1ECB GG2CollectionText Text_Common_Prologue_CHT
+   7    54176     21B9 GG2CollectionText Text_Common_Prologue_ENG
+   8    5632F     20AF GG2CollectionText Text_Common_Prologue_JPN
+   9    583DE     2043 GG2CollectionText Text_Common_Prologue_KOR
+### CommonAD_ep2_1_map.xxx
+   5    63BA5     25B9 GG2CollectionText Text_CommonAD_ep2_1_CHT
+   6    6615E     27E8 GG2CollectionText Text_CommonAD_ep2_1_ENG
+   7    68946     275F GG2CollectionText Text_CommonAD_ep2_1_JPN
+   8    6B0A5     279B GG2CollectionText Text_CommonAD_ep2_1_KOR
+### CommonAD_ep2_2_map.xxx
+   5    1E561      C0F GG2CollectionText Text_CommonAD_ep2_2_CHT
+   6    1F170      C7D GG2CollectionText Text_CommonAD_ep2_2_ENG
+   7    1FDED      C67 GG2CollectionText Text_CommonAD_ep2_2_JPN
+   8    20A54      C3B GG2CollectionText Text_CommonAD_ep2_2_KOR
+### CommonAD_ep3_1_map.xxx
+   5    20F55      E0D GG2CollectionText Text_CommonAD_ep3_1_CHT
+   6    21D62      ECE GG2CollectionText Text_CommonAD_ep3_1_ENG
+   7    22C30      EB5 GG2CollectionText Text_CommonAD_ep3_1_JPN
+   8    23AE5      EB5 GG2CollectionText Text_CommonAD_ep3_1_KOR
+### CommonAD_ep3_2_map.xxx
+   6    30AE4     11E4 GG2CollectionText Text_CommonAD_ep3_2_CHT
+   7    31CC8     123C GG2CollectionText Text_CommonAD_ep3_2_ENG
+   8    32F04     12A6 GG2CollectionText Text_CommonAD_ep3_2_JPN
+   9    341AA     12C2 GG2CollectionText Text_CommonAD_ep3_2_KOR
+### CommonAD_ep3_3_map.xxx
+   7    7E2C9     261E GG2CollectionText Text_CommonAD_ep3_3_CHT
+   8    808E7     2816 GG2CollectionText Text_CommonAD_ep3_3_ENG
+   9    830FD     27D4 GG2CollectionText Text_CommonAD_ep3_3_JPN
+  10    858D1     2792 GG2CollectionText Text_CommonAD_ep3_3_KOR
+### CommonAD_ep3_4_map.xxx
+   6    6025A     2774 GG2CollectionText Text_CommonAD_ep3_4_CHT
+   7    629CE     2861 GG2CollectionText Text_CommonAD_ep3_4_ENG
+   8    6522F     28E0 GG2CollectionText Text_CommonAD_ep3_4_JPN
+   9    67B0F     294A GG2CollectionText Text_CommonAD_ep3_4_KOR
+### CommonAD_ep4_1_map.xxx
+   5    23EE0     1138 GG2CollectionText Text_CommonAD_ep4_1_CHT
+   6    25018     121B GG2CollectionText Text_CommonAD_ep4_1_ENG
+   7    26233     11FA GG2CollectionText Text_CommonAD_ep4_1_JPN
+   8    2742D     121C GG2CollectionText Text_CommonAD_ep4_1_KOR
+### CommonAD_ep4_2_map.xxx
+   6    95F8E     2E5E GG2CollectionText Text_CommonAD_ep4_2_CHT
+   7    98DEC     2F84 GG2CollectionText Text_CommonAD_ep4_2_ENG
+   8    9BD70     2FE4 GG2CollectionText Text_CommonAD_ep4_2_JPN
+   9    9ED54     2FBB GG2CollectionText Text_CommonAD_ep4_2_KOR
+### CommonAD_ep4_3_map.xxx
+   7    676B6     1D38 GG2CollectionText Text_CommonAD_ep4_3_CHT
+   8    693EE     1DF5 GG2CollectionText Text_CommonAD_ep4_3_ENG
+   9    6B1E3     1E82 GG2CollectionText Text_CommonAD_ep4_3_JPN
+  10    6D065     1DE2 GG2CollectionText Text_CommonAD_ep4_3_KOR
+### CommonAD_ep4_4_map.xxx
+   7    BE12C     385F GG2CollectionText Text_CommonAD_ep4_4_CHT
+   8    C198B     3986 GG2CollectionText Text_CommonAD_ep4_4_ENG
+   9    C5311     3A95 GG2CollectionText Text_CommonAD_ep4_4_JPN
+  10    C8DA6     3A57 GG2CollectionText Text_CommonAD_ep4_4_KOR
+### CommonKP_ep5_1_map.xxx
+   5    1D7D4      CAA GG2CollectionText Text_CommonKP_ep5_1_CHT
+   6    1E47E      D3C GG2CollectionText Text_CommonKP_ep5_1_ENG
+   7    1F1BA      CDC GG2CollectionText Text_CommonKP_ep5_1_JPN
+   8    1FE96      D26 GG2CollectionText Text_CommonKP_ep5_1_KOR
+### CommonKP_ep5_2_map.xxx
+   6    49E56     1C9A GG2CollectionText Text_CommonKP_ep5_2_CHT
+   7    4BAF0     1D87 GG2CollectionText Text_CommonKP_ep5_2_ENG
+   8    4D877     1D68 GG2CollectionText Text_CommonKP_ep5_2_JPN
+   9    4F5DF     1DC8 GG2CollectionText Text_CommonKP_ep5_2_KOR
+### CommonKP_ep5_3_map.xxx
+   4    4AB1D     2797 GG2CollectionText Text_CommonKP_ep5_3_CHT
+   5    4D2B4     292B GG2CollectionText Text_CommonKP_ep5_3_ENG
+   6    4FBDF     2941 GG2CollectionText Text_CommonKP_ep5_3_JPN
+   7    52520     29B9 GG2CollectionText Text_CommonKP_ep5_3_KOR
+### CommonKP_ep5_4_map.xxx
+   6    58439     1B49 GG2CollectionText Text_CommonKP_ep5_4_CHT
+   7    59F82     1CF5 GG2CollectionText Text_CommonKP_ep5_4_ENG
+   8    5BC77     1C13 GG2CollectionText Text_CommonKP_ep5_4_JPN
+   9    5D88A     1C35 GG2CollectionText Text_CommonKP_ep5_4_KOR
+### CommonKP_ep6_1_map.xxx
+   4    22BD4     102B GG2CollectionText Text_CommonKP_ep6_1_CHT
+   5    23BFF     1109 GG2CollectionText Text_CommonKP_ep6_1_ENG
+   6    24D08     10D9 GG2CollectionText Text_CommonKP_ep6_1_JPN
+   7    25DE1     10FD GG2CollectionText Text_CommonKP_ep6_1_KOR
+### CommonKP_ep6_2_map.xxx
+   4    1DDBF      B1A GG2CollectionText Text_CommonKP_ep6_2_CHT
+   5    1E8D9      B74 GG2CollectionText Text_CommonKP_ep6_2_ENG
+   6    1F44D      B4A GG2CollectionText Text_CommonKP_ep6_2_JPN
+   7    1FF97      B58 GG2CollectionText Text_CommonKP_ep6_2_KOR
+### CommonKP_ep6_3_map.xxx
+   5    3F769     1854 GG2CollectionText Text_CommonKP_ep6_3_CHT
+   6    40FBD     18DF GG2CollectionText Text_CommonKP_ep6_3_ENG
+   7    4289C     190A GG2CollectionText Text_CommonKP_ep6_3_JPN
+   8    441A6     18EE GG2CollectionText Text_CommonKP_ep6_3_KOR
+### CommonKP_ep6_4_map.xxx
+   7    B6265     31FA GG2CollectionText Text_CommonKP_ep6_4_CHT
+   8    B945F     343D GG2CollectionText Text_CommonKP_ep6_4_ENG
+   9    BC89C     33FE GG2CollectionText Text_CommonKP_ep6_4_JPN
+  10    BFC9A     34BE GG2CollectionText Text_CommonKP_ep6_4_KOR
+### CommonKP_ep7_1_map.xxx
+   7    7C95C     26BA GG2CollectionText Text_CommonKP_ep7_1_CHT
+   8    7F016     286C GG2CollectionText Text_CommonKP_ep7_1_ENG
+   9    81882     28C2 GG2CollectionText Text_CommonKP_ep7_1_JPN
+  10    84144     28FA GG2CollectionText Text_CommonKP_ep7_1_KOR
+### Destiny_End_bad_map.xxx
+   4    38457     1AD5 GG2CollectionText Text_Destiny_End_bad_CHT
+   5    39F2C     1BBD GG2CollectionText Text_Destiny_End_bad_ENG
+   6    3BAE9     1BB5 GG2CollectionText Text_Destiny_End_bad_JPN
+   7    3D69E     1BC5 GG2CollectionText Text_Destiny_End_bad_KOR
+### Destiny_End_true_map.xxx
+   6   108760      E50 GG2CollectionText Text_Destiny_End_true_CHT
+   7   1095B0      EC4 GG2CollectionText Text_Destiny_End_true_ENG
+   8   10A474      EE8 GG2CollectionText Text_Destiny_End_true_JPN
+   9   10B35C      ED0 GG2CollectionText Text_Destiny_End_true_KOR
+### Destiny_ep2_1_map.xxx
+   5    5F640     21B0 GG2CollectionText Text_Destiny_ep2_1_CHT
+   6    617F0     237F GG2CollectionText Text_Destiny_ep2_1_ENG
+   7    63B6F     232A GG2CollectionText Text_Destiny_ep2_1_JPN
+   8    65E99     231A GG2CollectionText Text_Destiny_ep2_1_KOR
+### Destiny_ep2_2_map.xxx
+   5    1F189      C0F GG2CollectionText Text_Destiny_ep2_2_CHT
+   6    1FD98      C7F GG2CollectionText Text_Destiny_ep2_2_ENG
+   7    20A17      C67 GG2CollectionText Text_Destiny_ep2_2_JPN
+   8    2167E      C33 GG2CollectionText Text_Destiny_ep2_2_KOR
+### Destiny_ep3_1_map.xxx
+   4    1246B      96B GG2CollectionText Text_Destiny_ep3_1_CHT
+   5    12DD6      9A7 GG2CollectionText Text_Destiny_ep3_1_ENG
+   6    1377D      9BD GG2CollectionText Text_Destiny_ep3_1_JPN
+   7    1413A      9BD GG2CollectionText Text_Destiny_ep3_1_KOR
+### Destiny_ep3_2_map.xxx
+   5    161DC      9BC GG2CollectionText Text_Destiny_ep3_2_CHT
+   6    16B98      A19 GG2CollectionText Text_Destiny_ep3_2_ENG
+   7    175B1      A1E GG2CollectionText Text_Destiny_ep3_2_JPN
+   8    17FCF      A1A GG2CollectionText Text_Destiny_ep3_2_KOR
+### Destiny_ep4_1_map.xxx
+   6    312DB     13E0 GG2CollectionText Text_Destiny_ep4_1_CHT
+   7    326BB     14E8 GG2CollectionText Text_Destiny_ep4_1_ENG
+   8    33BA3     14D8 GG2CollectionText Text_Destiny_ep4_1_JPN
+   9    3507B     1508 GG2CollectionText Text_Destiny_ep4_1_KOR
+### Destiny_ep4_2_map.xxx
+   5    15ADC      919 GG2CollectionText Text_Destiny_ep4_2_CHT
+   6    163F5      943 GG2CollectionText Text_Destiny_ep4_2_ENG
+   7    16D38      93D GG2CollectionText Text_Destiny_ep4_2_JPN
+   8    17675      961 GG2CollectionText Text_Destiny_ep4_2_KOR
+### Destiny_ep5_1_map.xxx
+   6    2DB6B     13A3 GG2CollectionText Text_Destiny_ep5_1_CHT
+   7    2EF0E     1500 GG2CollectionText Text_Destiny_ep5_1_ENG
+   8    3040E     14B7 GG2CollectionText Text_Destiny_ep5_1_JPN
+   9    318C5     14A5 GG2CollectionText Text_Destiny_ep5_1_KOR
+### Destiny_ep5_2_map.xxx
+   6    1E588      CC2 GG2CollectionText Text_Destiny_ep5_2_CHT
+   7    1F24A      CF9 GG2CollectionText Text_Destiny_ep5_2_ENG
+   8    1FF43      D10 GG2CollectionText Text_Destiny_ep5_2_JPN
+   9    20C53      D04 GG2CollectionText Text_Destiny_ep5_2_KOR
+### Destiny_ep6_1_map.xxx
+   5    28A42     1285 GG2CollectionText Text_Destiny_ep6_1_CHT
+   6    29CC7     1351 GG2CollectionText Text_Destiny_ep6_1_ENG
+   7    2B018     13AB GG2CollectionText Text_Destiny_ep6_1_JPN
+   8    2C3C3     137F GG2CollectionText Text_Destiny_ep6_1_KOR
+### Destiny_ep6_2_map.xxx
+   4    1337F      B62 GG2CollectionText Text_Destiny_ep6_2_CHT
+   5    13EE1      B69 GG2CollectionText Text_Destiny_ep6_2_ENG
+   6    14A4A      B80 GG2CollectionText Text_Destiny_ep6_2_JPN
+   7    155CA      BA4 GG2CollectionText Text_Destiny_ep6_2_KOR
+### Destiny_ep7_1_map.xxx
+   5     D66D      6F4 GG2CollectionText Text_Destiny_ep7_1_CHT
+   6     DD61      6FC GG2CollectionText Text_Destiny_ep7_1_ENG
+   7     E45D      6FC GG2CollectionText Text_Destiny_ep7_1_JPN
+   8     EB59      6F8 GG2CollectionText Text_Destiny_ep7_1_KOR
+### Destiny_ep7_2_map.xxx
+   7    345D3     13E9 GG2CollectionText Text_Destiny_ep7_2_CHT
+   8    359BC     14DD GG2CollectionText Text_Destiny_ep7_2_ENG
+   9    36E99     14D5 GG2CollectionText Text_Destiny_ep7_2_JPN
+  10    3836E     14C1 GG2CollectionText Text_Destiny_ep7_2_KOR
+### Destiny_ep7_3_map.xxx
+   4    232FA      D90 GG2CollectionText Text_Destiny_ep7_3_CHT
+   5    2408A      DDC GG2CollectionText Text_Destiny_ep7_3_ENG
+   6    24E66      DFA GG2CollectionText Text_Destiny_ep7_3_JPN
+   7    25C60      DE4 GG2CollectionText Text_Destiny_ep7_3_KOR
+### Destiny_ep7_4_map.xxx
+   8   1293AD     1799 GG2CollectionText Text_Destiny_ep7_4_CHT
+   9   12AB46     18A3 GG2CollectionText Text_Destiny_ep7_4_ENG
+  10   12C3E9     18DB GG2CollectionText Text_Destiny_ep7_4_JPN
+  11   12DCC4     18AB GG2CollectionText Text_Destiny_ep7_4_KOR
+### Ekoro_End_bad_map.xxx
+   9    368BF     1572 GG2CollectionText Text_Ekoro_End_bad_CHT
+  10    37E31     15BF GG2CollectionText Text_Ekoro_End_bad_ENG
+  11    393F0     1634 GG2CollectionText Text_Ekoro_End_bad_JPN
+  12    3AA24     163C GG2CollectionText Text_Ekoro_End_bad_KOR
+### Ekoro_End_normal_map.xxx
+   9    68B09     190B GG2CollectionText Text_Ekoro_End_normal_CHT
+  10    6A414     1875 GG2CollectionText Text_Ekoro_End_normal_ENG
+  11    6BC89     19C1 GG2CollectionText Text_Ekoro_End_normal_JPN
+  12    6D64A     19AF GG2CollectionText Text_Ekoro_End_normal_KOR
+### Ekoro_End_true_map.xxx
+   9    A235C     2E8C GG2CollectionText Text_Ekoro_End_true_CHT
+  10    A51E8     2EC5 GG2CollectionText Text_Ekoro_End_true_ENG
+  11    A80AD     3096 GG2CollectionText Text_Ekoro_End_true_JPN
+  12    AB143     3052 GG2CollectionText Text_Ekoro_End_true_KOR
+### Ekoro_ep5_1_map.xxx
+   5    24293      F87 GG2CollectionText Text_Ekoro_ep5_1_CHT
+   6    2521A     100C GG2CollectionText Text_Ekoro_ep5_1_ENG
+   7    26226     1035 GG2CollectionText Text_Ekoro_ep5_1_JPN
+   8    2725B     1051 GG2CollectionText Text_Ekoro_ep5_1_KOR
+### Ekoro_ep5_2_map.xxx
+   6    59F58     1D63 GG2CollectionText Text_Ekoro_ep5_2_CHT
+   7    5BCBB     1E8D GG2CollectionText Text_Ekoro_ep5_2_ENG
+   8    5DB48     1E39 GG2CollectionText Text_Ekoro_ep5_2_JPN
+   9    5F981     1E71 GG2CollectionText Text_Ekoro_ep5_2_KOR
+### Ekoro_ep5_3_map.xxx
+   7    67F80     1CFC GG2CollectionText Text_Ekoro_ep5_3_CHT
+   8    69C7C     1D32 GG2CollectionText Text_Ekoro_ep5_3_ENG
+   9    6B9AE     1DC0 GG2CollectionText Text_Ekoro_ep5_3_JPN
+  10    6D76E     1DD8 GG2CollectionText Text_Ekoro_ep5_3_KOR
+### Ekoro_ep6_1_map.xxx
+   5    1A866      C78 GG2CollectionText Text_Ekoro_ep6_1_CHT
+   6    1B4DE      CE0 GG2CollectionText Text_Ekoro_ep6_1_ENG
+   7    1C1BE      D06 GG2CollectionText Text_Ekoro_ep6_1_JPN
+   8    1CEC4      D1E GG2CollectionText Text_Ekoro_ep6_1_KOR
+### Ekoro_ep6_2_map.xxx
+   8    25057      BA3 GG2CollectionText Text_Ekoro_ep6_2_CHT
+   9    25BFA      BB6 GG2CollectionText Text_Ekoro_ep6_2_ENG
+  10    267B0      BEF GG2CollectionText Text_Ekoro_ep6_2_JPN
+  11    2739F      BCF GG2CollectionText Text_Ekoro_ep6_2_KOR
+### Ekoro_ep6_3_map.xxx
+   9    41FC2     1D09 GG2CollectionText Text_Ekoro_ep6_3_CHT
+  10    43CCB     1D91 GG2CollectionText Text_Ekoro_ep6_3_ENG
+  11    45A5C     1DE5 GG2CollectionText Text_Ekoro_ep6_3_JPN
+  12    47841     1DA9 GG2CollectionText Text_Ekoro_ep6_3_KOR
+### Ekoro_ep6_4_map.xxx
+  10    9865E     2D76 GG2CollectionText Text_Ekoro_ep6_4_CHT
+  11    9B3D4     2F0F GG2CollectionText Text_Ekoro_ep6_4_ENG
+  12    9E2E3     2F3A GG2CollectionText Text_Ekoro_ep6_4_JPN
+  13    A121D     2F00 GG2CollectionText Text_Ekoro_ep6_4_KOR
+### Ekoro_ep7_1_map.xxx
+   9    40D8B     15D1 GG2CollectionText Text_Ekoro_ep7_1_CHT
+  10    4235C     1669 GG2CollectionText Text_Ekoro_ep7_1_ENG
+  11    439C5     169F GG2CollectionText Text_Ekoro_ep7_1_JPN
+  12    45064     168D GG2CollectionText Text_Ekoro_ep7_1_KOR
+### Ekoro_ep7_2_map.xxx
+  10    6389E     1FBF GG2CollectionText Text_Ekoro_ep7_2_CHT
+  11    6585D     216C GG2CollectionText Text_Ekoro_ep7_2_ENG
+  12    679C9     20AF GG2CollectionText Text_Ekoro_ep7_2_JPN
+  13    69A78     211B GG2CollectionText Text_Ekoro_ep7_2_KOR
+### Kurona_End_bad_map.xxx
+   6    40F55     1254 GG2CollectionText Text_Kurona_End_bad_CHT
+   7    421A9     12B5 GG2CollectionText Text_Kurona_End_bad_ENG
+   8    4345E     1294 GG2CollectionText Text_Kurona_End_bad_JPN
+   9    446F2     12AE GG2CollectionText Text_Kurona_End_bad_KOR
+### Kurona_End_normal_map.xxx
+   6    74734     20F8 GG2CollectionText Text_Kurona_End_normal_CHT
+   7    7682C     21C1 GG2CollectionText Text_Kurona_End_normal_ENG
+   8    789ED     2206 GG2CollectionText Text_Kurona_End_normal_JPN
+   9    7ABF3     2222 GG2CollectionText Text_Kurona_End_normal_KOR
+### Kurona_End_true_map.xxx
+   6    927AB     2DB6 GG2CollectionText Text_Kurona_End_true_CHT
+   7    95561     2DE7 GG2CollectionText Text_Kurona_End_true_ENG
+   8    98348     2F6E GG2CollectionText Text_Kurona_End_true_JPN
+   9    9B2B6     2F54 GG2CollectionText Text_Kurona_End_true_KOR
+### Kurona_ep7_2_map.xxx
+   5    30FFC     11EF GG2CollectionText Text_Kurona_ep7_2_CHT
+   6    321EB     12FF GG2CollectionText Text_Kurona_ep7_2_ENG
+   7    334EA     12A1 GG2CollectionText Text_Kurona_ep7_2_JPN
+   8    3478B     12B9 GG2CollectionText Text_Kurona_ep7_2_KOR
+### Kurona_ep7_3_map.xxx
+   7    48D0B     2025 GG2CollectionText Text_Kurona_ep7_3_CHT
+   8    4AD30     2117 GG2CollectionText Text_Kurona_ep7_3_ENG
+   9    4CE47     2135 GG2CollectionText Text_Kurona_ep7_3_JPN
+  10    4EF7C     212A GG2CollectionText Text_Kurona_ep7_3_KOR
+### Kurona_ep7_4_map.xxx
+   7    2A973      CE8 GG2CollectionText Text_Kurona_ep7_4_CHT
+   8    2B65B      D43 GG2CollectionText Text_Kurona_ep7_4_ENG
+   9    2C39E      D56 GG2CollectionText Text_Kurona_ep7_4_JPN
+  10    2D0F4      D26 GG2CollectionText Text_Kurona_ep7_4_KOR
+### Maya_End_bad_map.xxx
+   4    2CA09     15A1 GG2CollectionText Text_Maya_End_bad_CHT
+   5    2DFAA     161A GG2CollectionText Text_Maya_End_bad_ENG
+   6    2F5C4     1659 GG2CollectionText Text_Maya_End_bad_JPN
+   7    30C1D     1613 GG2CollectionText Text_Maya_End_bad_KOR
+### Maya_End_normal_map.xxx
+   7    7A373     2152 GG2CollectionText Text_Maya_End_normal_CHT
+   8    7C4C5     21AC GG2CollectionText Text_Maya_End_normal_ENG
+   9    7E671     2252 GG2CollectionText Text_Maya_End_normal_JPN
+  10    808C3     225C GG2CollectionText Text_Maya_End_normal_KOR
+### Maya_End_true_map.xxx
+   7    90D11     2A57 GG2CollectionText Text_Maya_End_true_CHT
+   8    93768     2C5B GG2CollectionText Text_Maya_End_true_ENG
+   9    963C3     2CFB GG2CollectionText Text_Maya_End_true_JPN
+  10    990BE     2C71 GG2CollectionText Text_Maya_End_true_KOR
+### Maya_ep2_1_map.xxx
+   7    75291     233A GG2CollectionText Text_Maya_ep2_1_CHT
+   8    775CB     2642 GG2CollectionText Text_Maya_ep2_1_ENG
+   9    79C0D     2506 GG2CollectionText Text_Maya_ep2_1_JPN
+  10    7C113     2544 GG2CollectionText Text_Maya_ep2_1_KOR
+### Maya_ep2_2_map.xxx
+   5    1F6B1      705 GG2CollectionText Text_Maya_ep2_2_CHT
+   6    1FDB6      775 GG2CollectionText Text_Maya_ep2_2_ENG
+   7    2052B      75D GG2CollectionText Text_Maya_ep2_2_JPN
+   8    20C88      729 GG2CollectionText Text_Maya_ep2_2_KOR
+### Maya_ep3_1_map.xxx
+   4    18E00      5B1 GG2CollectionText Text_Maya_ep3_1_CHT
+   5    193B1      64A GG2CollectionText Text_Maya_ep3_1_ENG
+   6    199FB      5FF GG2CollectionText Text_Maya_ep3_1_JPN
+   7    19FFA      5D9 GG2CollectionText Text_Maya_ep3_1_KOR
+### Maya_ep3_2_map.xxx
+   5    2C9E1      CB4 GG2CollectionText Text_Maya_ep3_2_CHT
+   6    2D695      DC1 GG2CollectionText Text_Maya_ep3_2_ENG
+   7    2E456      D74 GG2CollectionText Text_Maya_ep3_2_JPN
+   8    2F1CA      D3C GG2CollectionText Text_Maya_ep3_2_KOR
+### Maya_ep3_3_map.xxx
+   7    70F0B     2580 GG2CollectionText Text_Maya_ep3_3_CHT
+   8    7348B     281A GG2CollectionText Text_Maya_ep3_3_ENG
+   9    75CA5     275E GG2CollectionText Text_Maya_ep3_3_JPN
+  10    78403     2710 GG2CollectionText Text_Maya_ep3_3_KOR
+### Maya_ep3_4_map.xxx
+   6    63F16     279C GG2CollectionText Text_Maya_ep3_4_CHT
+   7    666B2     29DE GG2CollectionText Text_Maya_ep3_4_ENG
+   8    69090     298C GG2CollectionText Text_Maya_ep3_4_JPN
+   9    6BA1C     28D0 GG2CollectionText Text_Maya_ep3_4_KOR
+### Maya_ep4_1_map.xxx
+   4    2011C      790 GG2CollectionText Text_Maya_ep4_1_CHT
+   5    208AC      7DF GG2CollectionText Text_Maya_ep4_1_ENG
+   6    2108B      806 GG2CollectionText Text_Maya_ep4_1_JPN
+   7    21891      802 GG2CollectionText Text_Maya_ep4_1_KOR
+### Maya_ep4_2_map.xxx
+   4    594AD     1B88 GG2CollectionText Text_Maya_ep4_2_CHT
+   5    5B035     1C70 GG2CollectionText Text_Maya_ep4_2_ENG
+   6    5CCA5     1CBA GG2CollectionText Text_Maya_ep4_2_JPN
+   7    5E95F     1C60 GG2CollectionText Text_Maya_ep4_2_KOR
+### Maya_ep4_3_map.xxx
+   5    3E195     1949 GG2CollectionText Text_Maya_ep4_3_CHT
+   6    3FADE     1B17 GG2CollectionText Text_Maya_ep4_3_ENG
+   7    415F5     1AA1 GG2CollectionText Text_Maya_ep4_3_JPN
+   8    43096     1A75 GG2CollectionText Text_Maya_ep4_3_KOR
+### Maya_ep4_4_map.xxx
+   7    7632A     2D74 GG2CollectionText Text_Maya_ep4_4_CHT
+   8    7909E     2FF9 GG2CollectionText Text_Maya_ep4_4_ENG
+   9    7C097     2FAE GG2CollectionText Text_Maya_ep4_4_JPN
+  10    7F045     2F32 GG2CollectionText Text_Maya_ep4_4_KOR
+### Maya_ep5_1_map.xxx
+   3    1660D      996 GG2CollectionText Text_Maya_ep5_1_CHT
+   4    16FA3      9B4 GG2CollectionText Text_Maya_ep5_1_ENG
+   5    17957      9D8 GG2CollectionText Text_Maya_ep5_1_JPN
+   6    1832F      9B8 GG2CollectionText Text_Maya_ep5_1_KOR
+### Maya_ep5_2_map.xxx
+   6    4E545     1BC8 GG2CollectionText Text_Maya_ep5_2_CHT
+   7    5010D     1CD0 GG2CollectionText Text_Maya_ep5_2_ENG
+   8    51DDD     1CBE GG2CollectionText Text_Maya_ep5_2_JPN
+   9    53A9B     1C74 GG2CollectionText Text_Maya_ep5_2_KOR
+### Maya_ep5_3_map.xxx
+   7    71195     214B GG2CollectionText Text_Maya_ep5_3_CHT
+   8    732E0     2247 GG2CollectionText Text_Maya_ep5_3_ENG
+   9    75527     22DF GG2CollectionText Text_Maya_ep5_3_JPN
+  10    77806     2273 GG2CollectionText Text_Maya_ep5_3_KOR
+### Maya_ep5_4_map.xxx
+   7    B05E1     33AF GG2CollectionText Text_Maya_ep5_4_CHT
+   8    B3990     36DD GG2CollectionText Text_Maya_ep5_4_ENG
+   9    B706D     365B GG2CollectionText Text_Maya_ep5_4_JPN
+  10    BA6C8     35FF GG2CollectionText Text_Maya_ep5_4_KOR
+### Maya_ep6_1_map.xxx
+   5    18314      C8C GG2CollectionText Text_Maya_ep6_1_CHT
+   6    18FA0      CFA GG2CollectionText Text_Maya_ep6_1_ENG
+   7    19C9A      D18 GG2CollectionText Text_Maya_ep6_1_JPN
+   8    1A9B2      CF2 GG2CollectionText Text_Maya_ep6_1_KOR
+### Maya_ep6_2_map.xxx
+   6    3B258     181A GG2CollectionText Text_Maya_ep6_2_CHT
+   7    3CA72     192E GG2CollectionText Text_Maya_ep6_2_ENG
+   8    3E3A0     1962 GG2CollectionText Text_Maya_ep6_2_JPN
+   9    3FD02     195C GG2CollectionText Text_Maya_ep6_2_KOR
+### Maya_ep6_3_map.xxx
+   4    124EC      88C GG2CollectionText Text_Maya_ep6_3_CHT
+   5    12D78      8F7 GG2CollectionText Text_Maya_ep6_3_ENG
+   6    1366F      8DA GG2CollectionText Text_Maya_ep6_3_JPN
+   7    13F49      8C6 GG2CollectionText Text_Maya_ep6_3_KOR
+### Maya_ep6_4_map.xxx
+   6    92F85     35EA GG2CollectionText Text_Maya_ep6_4_CHT
+   7    9656F     3794 GG2CollectionText Text_Maya_ep6_4_ENG
+   8    99D03     3822 GG2CollectionText Text_Maya_ep6_4_JPN
+   9    9D525     3758 GG2CollectionText Text_Maya_ep6_4_KOR
+### Maya_ep6_5_map.xxx
+   6    16058      98C GG2CollectionText Text_Maya_ep6_5_CHT
+   7    169E4      9B2 GG2CollectionText Text_Maya_ep6_5_ENG
+   8    17396      9C6 GG2CollectionText Text_Maya_ep6_5_JPN
+   9    17D5C      9B6 GG2CollectionText Text_Maya_ep6_5_KOR
+### Maya_ep6_6_map.xxx
+   5    5ACD0     22F4 GG2CollectionText Text_Maya_ep6_6_CHT
+   6    5CFC4     24D4 GG2CollectionText Text_Maya_ep6_6_ENG
+   7    5F498     2576 GG2CollectionText Text_Maya_ep6_6_JPN
+   8    61A0E     2460 GG2CollectionText Text_Maya_ep6_6_KOR
+### Maya_ep7_1_map.xxx
+   9    3B0F2     1A5C GG2CollectionText Text_Maya_ep7_1_CHT
+  10    3CB4E     1BCD GG2CollectionText Text_Maya_ep7_1_ENG
+  11    3E71B     1C32 GG2CollectionText Text_Maya_ep7_1_JPN
+  12    4034D     1C54 GG2CollectionText Text_Maya_ep7_1_KOR
+### Maya_ep7_2_map.xxx
+   6    4426F     2123 GG2CollectionText Text_Maya_ep7_2_CHT
+   7    46392     226D GG2CollectionText Text_Maya_ep7_2_ENG
+   8    485FF     2377 GG2CollectionText Text_Maya_ep7_2_JPN
+   9    4A976     22A5 GG2CollectionText Text_Maya_ep7_2_KOR
+### Maya_ep7_3_map.xxx
+   7    3E618     1913 GG2CollectionText Text_Maya_ep7_3_CHT
+   8    3FF2B     1AC0 GG2CollectionText Text_Maya_ep7_3_ENG
+   9    419EB     1A63 GG2CollectionText Text_Maya_ep7_3_JPN
+  10    4344E     1A39 GG2CollectionText Text_Maya_ep7_3_KOR
+### Patako_End_normal_map.xxx
+   6    79BE8     1EB4 GG2CollectionText Text_Patako_End_normal_CHT
+   7    7BA9C     1F6D GG2CollectionText Text_Patako_End_normal_ENG
+   8    7DA09     1FCA GG2CollectionText Text_Patako_End_normal_JPN
+   9    7F9D3     1F66 GG2CollectionText Text_Patako_End_normal_KOR
+### Patako_End_true_map.xxx
+   6    91931     2792 GG2CollectionText Text_Patako_End_true_CHT
+   7    940C3     2807 GG2CollectionText Text_Patako_End_true_ENG
+   8    968CA     293A GG2CollectionText Text_Patako_End_true_JPN
+   9    99204     291A GG2CollectionText Text_Patako_End_true_KOR
+### Patako_ep7_2_map.xxx
+   6    9F380     2971 GG2CollectionText Text_Patako_ep7_2_CHT
+   7    A1CF1     2B8D GG2CollectionText Text_Patako_ep7_2_ENG
+   8    A487E     2AF1 GG2CollectionText Text_Patako_ep7_2_JPN
+   9    A736F     2B33 GG2CollectionText Text_Patako_ep7_2_KOR
+### Patako_ep7_3_map.xxx
+   5    21D73      AAD GG2CollectionText Text_Patako_ep7_3_CHT
+   6    22820      AC8 GG2CollectionText Text_Patako_ep7_3_ENG
+   7    232E8      AFF GG2CollectionText Text_Patako_ep7_3_JPN
+   8    23DE7      ADF GG2CollectionText Text_Patako_ep7_3_KOR
+### Shinobu_End_bad_map.xxx
+   5    22115     1065 GG2CollectionText Text_Shinobu_End_bad_CHT
+   6    2317A     1094 GG2CollectionText Text_Shinobu_End_bad_ENG
+   7    2420E     10C5 GG2CollectionText Text_Shinobu_End_bad_JPN
+   8    252D3     1091 GG2CollectionText Text_Shinobu_End_bad_KOR
+### Shinobu_End_normal_map.xxx
+   7    7D593     21EA GG2CollectionText Text_Shinobu_End_normal_CHT
+   8    7F77D     2255 GG2CollectionText Text_Shinobu_End_normal_ENG
+   9    819D2     22FE GG2CollectionText Text_Shinobu_End_normal_JPN
+  10    83CD0     2306 GG2CollectionText Text_Shinobu_End_normal_KOR
+### Shinobu_End_true_map.xxx
+   5    910E1     2B86 GG2CollectionText Text_Shinobu_End_true_CHT
+   6    93C67     2D5F GG2CollectionText Text_Shinobu_End_true_ENG
+   7    969C6     2E40 GG2CollectionText Text_Shinobu_End_true_JPN
+   8    99806     2E04 GG2CollectionText Text_Shinobu_End_true_KOR
+### Shinobu_ep2_1_map.xxx
+   6    75D62     299C GG2CollectionText Text_Shinobu_ep2_1_CHT
+   7    786FE     2CA3 GG2CollectionText Text_Shinobu_ep2_1_ENG
+   8    7B3A1     2B7E GG2CollectionText Text_Shinobu_ep2_1_JPN
+   9    7DF1F     2BE2 GG2CollectionText Text_Shinobu_ep2_1_KOR
+### Shinobu_ep2_2_map.xxx
+   6    20FF3      C0F GG2CollectionText Text_Shinobu_ep2_2_CHT
+   7    21C02      C7F GG2CollectionText Text_Shinobu_ep2_2_ENG
+   8    22881      C67 GG2CollectionText Text_Shinobu_ep2_2_JPN
+   9    234E8      C33 GG2CollectionText Text_Shinobu_ep2_2_KOR
+### Shinobu_ep3_1_map.xxx
+   5    15EBF      A24 GG2CollectionText Text_Shinobu_ep3_1_CHT
+   6    168E3      ADC GG2CollectionText Text_Shinobu_ep3_1_ENG
+   7    173BF      A66 GG2CollectionText Text_Shinobu_ep3_1_JPN
+   8    17E25      A4E GG2CollectionText Text_Shinobu_ep3_1_KOR
+### Shinobu_ep3_2_map.xxx
+   6    2CB84     109E GG2CollectionText Text_Shinobu_ep3_2_CHT
+   7    2DC22     1177 GG2CollectionText Text_Shinobu_ep3_2_ENG
+   8    2ED99     11C4 GG2CollectionText Text_Shinobu_ep3_2_JPN
+   9    2FF5D     111A GG2CollectionText Text_Shinobu_ep3_2_KOR
+### Shinobu_ep3_3_map.xxx
+   6    894EF     32AC GG2CollectionText Text_Shinobu_ep3_3_CHT
+   7    8C79B     361F GG2CollectionText Text_Shinobu_ep3_3_ENG
+   8    8FDBA     34F6 GG2CollectionText Text_Shinobu_ep3_3_JPN
+   9    932B0     34BC GG2CollectionText Text_Shinobu_ep3_3_KOR
+### Shinobu_ep3_4_map.xxx
+   6    5F502     2053 GG2CollectionText Text_Shinobu_ep3_4_CHT
+   7    61555     2242 GG2CollectionText Text_Shinobu_ep3_4_ENG
+   8    63797     21AF GG2CollectionText Text_Shinobu_ep3_4_JPN
+   9    65946     21A9 GG2CollectionText Text_Shinobu_ep3_4_KOR
+### Shinobu_ep4_1_map.xxx
+   5    1BD49      BAA GG2CollectionText Text_Shinobu_ep4_1_CHT
+   6    1C8F3      C54 GG2CollectionText Text_Shinobu_ep4_1_ENG
+   7    1D547      C2C GG2CollectionText Text_Shinobu_ep4_1_JPN
+   8    1E173      C54 GG2CollectionText Text_Shinobu_ep4_1_KOR
+### Shinobu_ep4_2_map.xxx
+   5    654B4     2802 GG2CollectionText Text_Shinobu_ep4_2_CHT
+   6    67CB6     2AD4 GG2CollectionText Text_Shinobu_ep4_2_ENG
+   7    6A78A     29D0 GG2CollectionText Text_Shinobu_ep4_2_JPN
+   8    6D15A     29EC GG2CollectionText Text_Shinobu_ep4_2_KOR
+### Shinobu_ep4_3_map.xxx
+   7    73757     26B5 GG2CollectionText Text_Shinobu_ep4_3_CHT
+   8    75E0C     2952 GG2CollectionText Text_Shinobu_ep4_3_ENG
+   9    7875E     289F GG2CollectionText Text_Shinobu_ep4_3_JPN
+  10    7AFFD     2919 GG2CollectionText Text_Shinobu_ep4_3_KOR
+### Shinobu_ep4_4_map.xxx
+   8    9A4A0     2EE7 GG2CollectionText Text_Shinobu_ep4_4_CHT
+   9    9D387     316A GG2CollectionText Text_Shinobu_ep4_4_ENG
+  10    A04F1     30F3 GG2CollectionText Text_Shinobu_ep4_4_JPN
+  11    A35E4     30CD GG2CollectionText Text_Shinobu_ep4_4_KOR
+### Shinobu_ep5_1_map.xxx
+   6    25B71      F40 GG2CollectionText Text_Shinobu_ep5_1_CHT
+   7    26AB1     1012 GG2CollectionText Text_Shinobu_ep5_1_ENG
+   8    27AC3     1034 GG2CollectionText Text_Shinobu_ep5_1_JPN
+   9    28AF7     108A GG2CollectionText Text_Shinobu_ep5_1_KOR
+### Shinobu_ep5_2_map.xxx
+   7    3AF13     17CA GG2CollectionText Text_Shinobu_ep5_2_CHT
+   8    3C6DD     18A6 GG2CollectionText Text_Shinobu_ep5_2_ENG
+   9    3DF83     18D6 GG2CollectionText Text_Shinobu_ep5_2_JPN
+  10    3F859     18D0 GG2CollectionText Text_Shinobu_ep5_2_KOR
+### Shinobu_ep5_3_map.xxx
+   4    508B1     1FAF GG2CollectionText Text_Shinobu_ep5_3_CHT
+   5    52860     2098 GG2CollectionText Text_Shinobu_ep5_3_ENG
+   6    548F8     2101 GG2CollectionText Text_Shinobu_ep5_3_JPN
+   7    569F9     20E9 GG2CollectionText Text_Shinobu_ep5_3_KOR
+### Shinobu_ep5_4_map.xxx
+   7    903B1     2D7B GG2CollectionText Text_Shinobu_ep5_4_CHT
+   8    9312C     3152 GG2CollectionText Text_Shinobu_ep5_4_ENG
+   9    9627E     2F81 GG2CollectionText Text_Shinobu_ep5_4_JPN
+  10    991FF     2F4B GG2CollectionText Text_Shinobu_ep5_4_KOR
+### Shinobu_ep6_1_map.xxx
+   5    29055     184A GG2CollectionText Text_Shinobu_ep6_1_CHT
+   6    2A89F     1921 GG2CollectionText Text_Shinobu_ep6_1_ENG
+   7    2C1C0     1980 GG2CollectionText Text_Shinobu_ep6_1_JPN
+   8    2DB40     1944 GG2CollectionText Text_Shinobu_ep6_1_KOR
+### Shinobu_ep6_2_map.xxx
+   5    350D4     15A4 GG2CollectionText Text_Shinobu_ep6_2_CHT
+   6    36678     1667 GG2CollectionText Text_Shinobu_ep6_2_ENG
+   7    37CDF     171C GG2CollectionText Text_Shinobu_ep6_2_JPN
+   8    393FB     1694 GG2CollectionText Text_Shinobu_ep6_2_KOR
+### Shinobu_ep6_3_map.xxx
+   7    595CB     25B8 GG2CollectionText Text_Shinobu_ep6_3_CHT
+   8    5BB83     2826 GG2CollectionText Text_Shinobu_ep6_3_ENG
+   9    5E3A9     27F8 GG2CollectionText Text_Shinobu_ep6_3_JPN
+  10    60BA1     27F0 GG2CollectionText Text_Shinobu_ep6_3_KOR
+### Shinobu_ep6_4_map.xxx
+   5    1696C      97A GG2CollectionText Text_Shinobu_ep6_4_CHT
+   6    172E6      97C GG2CollectionText Text_Shinobu_ep6_4_ENG
+   7    17C62      9AA GG2CollectionText Text_Shinobu_ep6_4_JPN
+   8    1860C      9C0 GG2CollectionText Text_Shinobu_ep6_4_KOR
+### Shinobu_ep6_5_map.xxx
+   7    3EC1C     17B0 GG2CollectionText Text_Shinobu_ep6_5_CHT
+   8    403CC     18A0 GG2CollectionText Text_Shinobu_ep6_5_ENG
+   9    41C6C     18E4 GG2CollectionText Text_Shinobu_ep6_5_JPN
+  10    43550     189C GG2CollectionText Text_Shinobu_ep6_5_KOR
+### Shinobu_ep7_1_map.xxx
+   7    3DEDE     1AD6 GG2CollectionText Text_Shinobu_ep7_1_CHT
+   8    3F9B4     1B94 GG2CollectionText Text_Shinobu_ep7_1_ENG
+   9    41548     1C64 GG2CollectionText Text_Shinobu_ep7_1_JPN
+  10    431AC     1BD8 GG2CollectionText Text_Shinobu_ep7_1_KOR
+### Shinobu_ep7_2_map.xxx
+   6    52414     26D5 GG2CollectionText Text_Shinobu_ep7_2_CHT
+   7    54AE9     28E9 GG2CollectionText Text_Shinobu_ep7_2_ENG
+   8    573D2     2941 GG2CollectionText Text_Shinobu_ep7_2_JPN
+   9    59D13     295F GG2CollectionText Text_Shinobu_ep7_2_KOR
+### Shinobu_ep7_3_map.xxx
+   7    556B2     1DD4 GG2CollectionText Text_Shinobu_ep7_3_CHT
+   8    57486     1F7B GG2CollectionText Text_Shinobu_ep7_3_ENG
+   9    59401     202A GG2CollectionText Text_Shinobu_ep7_3_JPN
+  10    5B42B     1F42 GG2CollectionText Text_Shinobu_ep7_3_KOR
+### Sisters_End_bad_map.xxx
+   3    29483     1522 GG2CollectionText Text_Sisters_End_bad_CHT
+   4    2A9A5     1579 GG2CollectionText Text_Sisters_End_bad_ENG
+   5    2BF1E     15D4 GG2CollectionText Text_Sisters_End_bad_JPN
+   6    2D4F2     15CE GG2CollectionText Text_Sisters_End_bad_KOR
+### Sisters_End_normal_map.xxx
+   5    44670     17F0 GG2CollectionText Text_Sisters_End_normal_CHT
+   6    45E60     18A8 GG2CollectionText Text_Sisters_End_normal_ENG
+   7    47708     189A GG2CollectionText Text_Sisters_End_normal_JPN
+   8    48FA2     1872 GG2CollectionText Text_Sisters_End_normal_KOR
+### Sisters_End_true_map.xxx
+   6    743E6     2658 GG2CollectionText Text_Sisters_End_true_CHT
+   7    76A3E     283B GG2CollectionText Text_Sisters_End_true_ENG
+   8    79279     27EA GG2CollectionText Text_Sisters_End_true_JPN
+   9    7BA63     27DE GG2CollectionText Text_Sisters_End_true_KOR
+### Sisters_ep2_1_map.xxx
+   6    72409     2A42 GG2CollectionText Text_Sisters_ep2_1_CHT
+   7    74E4B     2DA8 GG2CollectionText Text_Sisters_ep2_1_ENG
+   8    77BF3     2C62 GG2CollectionText Text_Sisters_ep2_1_JPN
+   9    7A855     2C74 GG2CollectionText Text_Sisters_ep2_1_KOR
+### Sisters_ep2_2_map.xxx
+   5    1F37D      C0F GG2CollectionText Text_Sisters_ep2_2_CHT
+   6    1FF8C      C7F GG2CollectionText Text_Sisters_ep2_2_ENG
+   7    20C0B      C67 GG2CollectionText Text_Sisters_ep2_2_JPN
+   8    21872      C33 GG2CollectionText Text_Sisters_ep2_2_KOR
+### Sisters_ep3_1_map.xxx
+   5    19212      B05 GG2CollectionText Text_Sisters_ep3_1_CHT
+   6    19D17      B4E GG2CollectionText Text_Sisters_ep3_1_ENG
+   7    1A865      B65 GG2CollectionText Text_Sisters_ep3_1_JPN
+   8    1B3CA      B71 GG2CollectionText Text_Sisters_ep3_1_KOR
+### Sisters_ep3_2_map.xxx
+   7    6DD28     262C GG2CollectionText Text_Sisters_ep3_2_CHT
+   8    70354     28DE GG2CollectionText Text_Sisters_ep3_2_ENG
+   9    72C32     282C GG2CollectionText Text_Sisters_ep3_2_JPN
+  10    7545E     27E6 GG2CollectionText Text_Sisters_ep3_2_KOR
+### Sisters_ep3_3_map.xxx
+   7    62B72     208C GG2CollectionText Text_Sisters_ep3_3_CHT
+   8    64BFE     235D GG2CollectionText Text_Sisters_ep3_3_ENG
+   9    66F5B     21CA GG2CollectionText Text_Sisters_ep3_3_JPN
+  10    69125     21AC GG2CollectionText Text_Sisters_ep3_3_KOR
+### Sisters_ep3_4_map.xxx
+   7    A56E9     351E GG2CollectionText Text_Sisters_ep3_4_CHT
+   8    A8C07     37DF GG2CollectionText Text_Sisters_ep3_4_ENG
+   9    AC3E6     37DC GG2CollectionText Text_Sisters_ep3_4_JPN
+  10    AFBC2     3746 GG2CollectionText Text_Sisters_ep3_4_KOR
+### Sisters_ep4_1_map.xxx
+   5    1B016      CDF GG2CollectionText Text_Sisters_ep4_1_CHT
+   6    1BCF5      DC6 GG2CollectionText Text_Sisters_ep4_1_ENG
+   7    1CABB      D87 GG2CollectionText Text_Sisters_ep4_1_JPN
+   8    1D842      DB3 GG2CollectionText Text_Sisters_ep4_1_KOR
+### Sisters_ep4_2_map.xxx
+   8    2FF5A     16EF GG2CollectionText Text_Sisters_ep4_2_CHT
+   9    31649     1736 GG2CollectionText Text_Sisters_ep4_2_ENG
+  10    32D7F     17FD GG2CollectionText Text_Sisters_ep4_2_JPN
+  11    3457C     17F9 GG2CollectionText Text_Sisters_ep4_2_KOR
+### Sisters_ep4_3_map.xxx
+   9    7D9CB     2C73 GG2CollectionText Text_Sisters_ep4_3_CHT
+  10    8063E     2ECA GG2CollectionText Text_Sisters_ep4_3_ENG
+  11    83508     2EB7 GG2CollectionText Text_Sisters_ep4_3_JPN
+  12    863BF     2E51 GG2CollectionText Text_Sisters_ep4_3_KOR
+### Sisters_ep5_1_map.xxx
+   5    1F0C2      DC5 GG2CollectionText Text_Sisters_ep5_1_CHT
+   6    1FE87      E40 GG2CollectionText Text_Sisters_ep5_1_ENG
+   7    20CC7      E4D GG2CollectionText Text_Sisters_ep5_1_JPN
+   8    21B14      E3B GG2CollectionText Text_Sisters_ep5_1_KOR
+### Sisters_ep5_2_map.xxx
+   3    4DEB2     25CF GG2CollectionText Text_Sisters_ep5_2_CHT
+   4    50481     2691 GG2CollectionText Text_Sisters_ep5_2_ENG
+   5    52B12     2753 GG2CollectionText Text_Sisters_ep5_2_JPN
+   6    55265     2686 GG2CollectionText Text_Sisters_ep5_2_KOR
+### Sisters_ep5_3_map.xxx
+   9    6EC19     2263 GG2CollectionText Text_Sisters_ep5_3_CHT
+  10    70E7C     24FD GG2CollectionText Text_Sisters_ep5_3_ENG
+  11    73379     2425 GG2CollectionText Text_Sisters_ep5_3_JPN
+  12    7579E     241B GG2CollectionText Text_Sisters_ep5_3_KOR
+### Sisters_ep5_4_map.xxx
+   9    81148     26EA GG2CollectionText Text_Sisters_ep5_4_CHT
+  10    83832     2985 GG2CollectionText Text_Sisters_ep5_4_ENG
+  11    861B7     28B2 GG2CollectionText Text_Sisters_ep5_4_JPN
+  12    88A69     286C GG2CollectionText Text_Sisters_ep5_4_KOR
+### Sisters_ep6_1_map.xxx
+   6    1A87E      D10 GG2CollectionText Text_Sisters_ep6_1_CHT
+   7    1B58E      D6C GG2CollectionText Text_Sisters_ep6_1_ENG
+   8    1C2FA      D78 GG2CollectionText Text_Sisters_ep6_1_JPN
+   9    1D072      D88 GG2CollectionText Text_Sisters_ep6_1_KOR
+### Sisters_ep6_2_map.xxx
+  10    90EDF     2A0E GG2CollectionText Text_Sisters_ep6_2_CHT
+  11    938ED     2BA6 GG2CollectionText Text_Sisters_ep6_2_ENG
+  12    96493     2B9E GG2CollectionText Text_Sisters_ep6_2_JPN
+  13    99031     2B98 GG2CollectionText Text_Sisters_ep6_2_KOR
+### Sisters_ep6_3_map.xxx
+   9    480DA     207D GG2CollectionText Text_Sisters_ep6_3_CHT
+  10    4A157     20C6 GG2CollectionText Text_Sisters_ep6_3_ENG
+  11    4C21D     21CB GG2CollectionText Text_Sisters_ep6_3_JPN
+  12    4E3E8     2173 GG2CollectionText Text_Sisters_ep6_3_KOR
+### Sisters_ep6_4_map.xxx
+  11    B442B     2FFB GG2CollectionText Text_Sisters_ep6_4_CHT
+  12    B7426     328A GG2CollectionText Text_Sisters_ep6_4_ENG
+  13    BA6B0     31E9 GG2CollectionText Text_Sisters_ep6_4_JPN
+  14    BD899     31EF GG2CollectionText Text_Sisters_ep6_4_KOR
+### Sisters_ep7_1_map.xxx
+   6    289AF     12E7 GG2CollectionText Text_Sisters_ep7_1_CHT
+   7    29C96     139B GG2CollectionText Text_Sisters_ep7_1_ENG
+   8    2B031     1383 GG2CollectionText Text_Sisters_ep7_1_JPN
+   9    2C3B4     1355 GG2CollectionText Text_Sisters_ep7_1_KOR
+### Sisters_ep7_2_map.xxx
+   6    B56BC     3D4E GG2CollectionText Text_Sisters_ep7_2_CHT
+   7    B940A     3EE0 GG2CollectionText Text_Sisters_ep7_2_ENG
+   8    BD2EA     4024 GG2CollectionText Text_Sisters_ep7_2_JPN
+   9    C130E     3F28 GG2CollectionText Text_Sisters_ep7_2_KOR
+### Sisters_ep7_3_map.xxx
+   6    26B69     1185 GG2CollectionText Text_Sisters_ep7_3_CHT
+   7    27CEE     120B GG2CollectionText Text_Sisters_ep7_3_ENG
+   8    28EF9     1215 GG2CollectionText Text_Sisters_ep7_3_JPN
+   9    2A10E     1235 GG2CollectionText Text_Sisters_ep7_3_KOR
+### Tutorial_ActionEvent_Maya_map.xxx
+   3     EDCB     115E GG2CollectionText Text_Tutorial_ActionEvent_Maya_CHT
+   4     FF29     122A GG2CollectionText Text_Tutorial_ActionEvent_Maya_ENG
+   5    11153     127C GG2CollectionText Text_Tutorial_ActionEvent_Maya_JPN
+   6    123CF     128E GG2CollectionText Text_Tutorial_ActionEvent_Maya_KOR
+### Tutorial_ActionEvent_Shino_map.xxx
+   3     EDCD     11A0 GG2CollectionText Text_Tutorial_ActionEvent_Shinobu_CHT
+   4     FF6D     1275 GG2CollectionText Text_Tutorial_ActionEvent_Shinobu_ENG
+   5    111E2     12CE GG2CollectionText Text_Tutorial_ActionEvent_Shinobu_JPN
+   6    124B0     1300 GG2CollectionText Text_Tutorial_ActionEvent_Shinobu_KOR
+### Tutorial_Destiny_map.xxx
+   3     ED67     10FE GG2CollectionText Text_Tutorial_Destiny_CHT
+   4     FE65     1144 GG2CollectionText Text_Tutorial_Destiny_ENG
+   5    10FA9     11EA GG2CollectionText Text_Tutorial_Destiny_JPN
+   6    12193     1200 GG2CollectionText Text_Tutorial_Destiny_KOR
+### Tutorial_Devil_map.xxx
+   3     CE63      CB8 GG2CollectionText Text_Tutorial_Devil_CHT
+   4     DB1B      CF1 GG2CollectionText Text_Tutorial_Devil_ENG
+   5     E80C      D5E GG2CollectionText Text_Tutorial_Devil_JPN
+   6     F56A      D30 GG2CollectionText Text_Tutorial_Devil_KOR
+### Tutorial_Dokidoki_map.xxx
+   3     ED93     116C GG2CollectionText Text_Tutorial_Dokidoki_CHT
+   4     FEFF     1255 GG2CollectionText Text_Tutorial_Dokidoki_ENG
+   5    11154     12A2 GG2CollectionText Text_Tutorial_Dokidoki_JPN
+   6    123F6     12F4 GG2CollectionText Text_Tutorial_Dokidoki_KOR
+### Tutorial_HeroineDokidoki_map.xxx
+   3     EDC7     108E GG2CollectionText Text_Tutorial_HeroineDokidoki_CHT
+   4     FE55     1181 GG2CollectionText Text_Tutorial_HeroineDokidoki_ENG
+   5    10FD6     11DA GG2CollectionText Text_Tutorial_HeroineDokidoki_JPN
+   6    121B0     11EA GG2CollectionText Text_Tutorial_HeroineDokidoki_KOR
+### Tutorial_Shooting_map.xxx
+   3    11283     11AE GG2CollectionText Text_Tutorial_Shooting_CHT
+   4    12431     1246 GG2CollectionText Text_Tutorial_Shooting_ENG
+   5    13677     1312 GG2CollectionText Text_Tutorial_Shooting_JPN
+   6    14989     1328 GG2CollectionText Text_Tutorial_Shooting_KOR
