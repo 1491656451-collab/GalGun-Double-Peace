@@ -28,5 +28,5 @@ powershell -ExecutionPolicy Bypass -File .\patch\install_patch.ps1
 
 ## 说明
 
-本仓库不包含游戏本体、ROM、NCA、NSP、原版备份、第三方工具二进制或大体积 cooked 游戏资源。使用者需要自行拥有合法游戏副本。
+本仓库不包含游戏本体、ROM、NCA、NSP、原版备份、第三方工具二进制或大体积 cooked 游戏资源。使用者需要自行拥有合法游戏副本。游戏名称、图像、文本及其他资产归各自权利人所有。
 
