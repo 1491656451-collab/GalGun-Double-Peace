@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+*.bak
+*.orig
+
+# Game and cooked package formats are kept out of Git history.
+*.nca
+*.nsp
+*.xci
+*.tfc
+*.u
+*.upk
+*.umap
+*.xxx
+*.Font
+*.gfx
+*.exe
+*.dll
+*.zip
+*.7z
+*.rar
+
+# Local work products.
+work/
+backup/
+backups/
+UmodelSaved/
+decompressed*/
+export*/
+temp*/
+tmp*/
+

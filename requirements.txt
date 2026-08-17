@@ -1,0 +1,5 @@
+capstone
+numpy
+opencv-python
+Pillow
+
