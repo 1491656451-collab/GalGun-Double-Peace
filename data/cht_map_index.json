@@ -1,0 +1,752 @@
+{
+  "Aoi_1_map.xxx": {
+    "offset": 164876,
+    "size": 4140,
+    "object": "Text_Aoi_1_CHT"
+  },
+  "Aoi_2_map.xxx": {
+    "offset": 155974,
+    "size": 3391,
+    "object": "Text_Aoi_2_CHT"
+  },
+  "Aoi_3_map.xxx": {
+    "offset": 193669,
+    "size": 4706,
+    "object": "Text_Aoi_3_CHT"
+  },
+  "Aoi_4_map.xxx": {
+    "offset": 113644,
+    "size": 3045,
+    "object": "Text_Aoi_4_CHT"
+  },
+  "Aoi_5_map.xxx": {
+    "offset": 154627,
+    "size": 3862,
+    "object": "Text_Aoi_5_CHT"
+  },
+  "Aoi_6_map.xxx": {
+    "offset": 344519,
+    "size": 8453,
+    "object": "Text_Aoi_6_CHT"
+  },
+  "Common_ep1_1_map.xxx": {
+    "offset": 200593,
+    "size": 4627,
+    "object": "Text_Common_ep1_1_CHT"
+  },
+  "Common_ep1_2_map.xxx": {
+    "offset": 514419,
+    "size": 11364,
+    "object": "Text_Common_ep1_2_CHT"
+  },
+  "Common_ep1_3_map.xxx": {
+    "offset": 169460,
+    "size": 4307,
+    "object": "Text_Common_ep1_3_CHT"
+  },
+  "Common_ep1_4_map.xxx": {
+    "offset": 108814,
+    "size": 3129,
+    "object": "Text_Common_ep1_4_CHT"
+  },
+  "Common_ep1_5_map.xxx": {
+    "offset": 2688914,
+    "size": 57434,
+    "object": "Text_Common_ep1_5_CHT"
+  },
+  "Common_Prologue_map.xxx": {
+    "offset": 336555,
+    "size": 7883,
+    "object": "Text_Common_Prologue_CHT"
+  },
+  "CommonAD_ep2_1_map.xxx": {
+    "offset": 408485,
+    "size": 9657,
+    "object": "Text_CommonAD_ep2_1_CHT"
+  },
+  "CommonAD_ep2_2_map.xxx": {
+    "offset": 124257,
+    "size": 3087,
+    "object": "Text_CommonAD_ep2_2_CHT"
+  },
+  "CommonAD_ep3_1_map.xxx": {
+    "offset": 134997,
+    "size": 3597,
+    "object": "Text_CommonAD_ep3_1_CHT"
+  },
+  "CommonAD_ep3_2_map.xxx": {
+    "offset": 199396,
+    "size": 4580,
+    "object": "Text_CommonAD_ep3_2_CHT"
+  },
+  "CommonAD_ep3_3_map.xxx": {
+    "offset": 516809,
+    "size": 9758,
+    "object": "Text_CommonAD_ep3_3_CHT"
+  },
+  "CommonAD_ep3_4_map.xxx": {
+    "offset": 393818,
+    "size": 10100,
+    "object": "Text_CommonAD_ep3_4_CHT"
+  },
+  "CommonAD_ep4_1_map.xxx": {
+    "offset": 147168,
+    "size": 4408,
+    "object": "Text_CommonAD_ep4_1_CHT"
+  },
+  "CommonAD_ep4_2_map.xxx": {
+    "offset": 614286,
+    "size": 11870,
+    "object": "Text_CommonAD_ep4_2_CHT"
+  },
+  "CommonAD_ep4_3_map.xxx": {
+    "offset": 423606,
+    "size": 7480,
+    "object": "Text_CommonAD_ep4_3_CHT"
+  },
+  "CommonAD_ep4_4_map.xxx": {
+    "offset": 778540,
+    "size": 14431,
+    "object": "Text_CommonAD_ep4_4_CHT"
+  },
+  "CommonKP_ep5_1_map.xxx": {
+    "offset": 120788,
+    "size": 3242,
+    "object": "Text_CommonKP_ep5_1_CHT"
+  },
+  "CommonKP_ep5_2_map.xxx": {
+    "offset": 302678,
+    "size": 7322,
+    "object": "Text_CommonKP_ep5_2_CHT"
+  },
+  "CommonKP_ep5_3_map.xxx": {
+    "offset": 305949,
+    "size": 10135,
+    "object": "Text_CommonKP_ep5_3_CHT"
+  },
+  "CommonKP_ep5_4_map.xxx": {
+    "offset": 361529,
+    "size": 6985,
+    "object": "Text_CommonKP_ep5_4_CHT"
+  },
+  "CommonKP_ep6_1_map.xxx": {
+    "offset": 142292,
+    "size": 4139,
+    "object": "Text_CommonKP_ep6_1_CHT"
+  },
+  "CommonKP_ep6_2_map.xxx": {
+    "offset": 122303,
+    "size": 2842,
+    "object": "Text_CommonKP_ep6_2_CHT"
+  },
+  "CommonKP_ep6_3_map.xxx": {
+    "offset": 259945,
+    "size": 6228,
+    "object": "Text_CommonKP_ep6_3_CHT"
+  },
+  "CommonKP_ep6_4_map.xxx": {
+    "offset": 746085,
+    "size": 12794,
+    "object": "Text_CommonKP_ep6_4_CHT"
+  },
+  "CommonKP_ep7_1_map.xxx": {
+    "offset": 510300,
+    "size": 9914,
+    "object": "Text_CommonKP_ep7_1_CHT"
+  },
+  "Destiny_End_bad_map.xxx": {
+    "offset": 230487,
+    "size": 6869,
+    "object": "Text_Destiny_End_bad_CHT"
+  },
+  "Destiny_End_true_map.xxx": {
+    "offset": 1083232,
+    "size": 3664,
+    "object": "Text_Destiny_End_true_CHT"
+  },
+  "Destiny_ep2_1_map.xxx": {
+    "offset": 390720,
+    "size": 8624,
+    "object": "Text_Destiny_ep2_1_CHT"
+  },
+  "Destiny_ep2_2_map.xxx": {
+    "offset": 127369,
+    "size": 3087,
+    "object": "Text_Destiny_ep2_2_CHT"
+  },
+  "Destiny_ep3_1_map.xxx": {
+    "offset": 74859,
+    "size": 2411,
+    "object": "Text_Destiny_ep3_1_CHT"
+  },
+  "Destiny_ep3_2_map.xxx": {
+    "offset": 90588,
+    "size": 2492,
+    "object": "Text_Destiny_ep3_2_CHT"
+  },
+  "Destiny_ep4_1_map.xxx": {
+    "offset": 201435,
+    "size": 5088,
+    "object": "Text_Destiny_ep4_1_CHT"
+  },
+  "Destiny_ep4_2_map.xxx": {
+    "offset": 88796,
+    "size": 2329,
+    "object": "Text_Destiny_ep4_2_CHT"
+  },
+  "Destiny_ep5_1_map.xxx": {
+    "offset": 187243,
+    "size": 5027,
+    "object": "Text_Destiny_ep5_1_CHT"
+  },
+  "Destiny_ep5_2_map.xxx": {
+    "offset": 124296,
+    "size": 3266,
+    "object": "Text_Destiny_ep5_2_CHT"
+  },
+  "Destiny_ep6_1_map.xxx": {
+    "offset": 166466,
+    "size": 4741,
+    "object": "Text_Destiny_ep6_1_CHT"
+  },
+  "Destiny_ep6_2_map.xxx": {
+    "offset": 78719,
+    "size": 2914,
+    "object": "Text_Destiny_ep6_2_CHT"
+  },
+  "Destiny_ep7_1_map.xxx": {
+    "offset": 54893,
+    "size": 1780,
+    "object": "Text_Destiny_ep7_1_CHT"
+  },
+  "Destiny_ep7_2_map.xxx": {
+    "offset": 214483,
+    "size": 5097,
+    "object": "Text_Destiny_ep7_2_CHT"
+  },
+  "Destiny_ep7_3_map.xxx": {
+    "offset": 144122,
+    "size": 3472,
+    "object": "Text_Destiny_ep7_3_CHT"
+  },
+  "Destiny_ep7_4_map.xxx": {
+    "offset": 1217453,
+    "size": 6041,
+    "object": "Text_Destiny_ep7_4_CHT"
+  },
+  "Ekoro_End_bad_map.xxx": {
+    "offset": 223423,
+    "size": 5490,
+    "object": "Text_Ekoro_End_bad_CHT"
+  },
+  "Ekoro_End_normal_map.xxx": {
+    "offset": 428809,
+    "size": 6411,
+    "object": "Text_Ekoro_End_normal_CHT"
+  },
+  "Ekoro_End_true_map.xxx": {
+    "offset": 664412,
+    "size": 11916,
+    "object": "Text_Ekoro_End_true_CHT"
+  },
+  "Ekoro_ep5_1_map.xxx": {
+    "offset": 148115,
+    "size": 3975,
+    "object": "Text_Ekoro_ep5_1_CHT"
+  },
+  "Ekoro_ep5_2_map.xxx": {
+    "offset": 368472,
+    "size": 7523,
+    "object": "Text_Ekoro_ep5_2_CHT"
+  },
+  "Ekoro_ep5_3_map.xxx": {
+    "offset": 425856,
+    "size": 7420,
+    "object": "Text_Ekoro_ep5_3_CHT"
+  },
+  "Ekoro_ep6_1_map.xxx": {
+    "offset": 108646,
+    "size": 3192,
+    "object": "Text_Ekoro_ep6_1_CHT"
+  },
+  "Ekoro_ep6_2_map.xxx": {
+    "offset": 151639,
+    "size": 2979,
+    "object": "Text_Ekoro_ep6_2_CHT"
+  },
+  "Ekoro_ep6_3_map.xxx": {
+    "offset": 270274,
+    "size": 7433,
+    "object": "Text_Ekoro_ep6_3_CHT"
+  },
+  "Ekoro_ep6_4_map.xxx": {
+    "offset": 624222,
+    "size": 11638,
+    "object": "Text_Ekoro_ep6_4_CHT"
+  },
+  "Ekoro_ep7_1_map.xxx": {
+    "offset": 265611,
+    "size": 5585,
+    "object": "Text_Ekoro_ep7_1_CHT"
+  },
+  "Ekoro_ep7_2_map.xxx": {
+    "offset": 407710,
+    "size": 8127,
+    "object": "Text_Ekoro_ep7_2_CHT"
+  },
+  "Kurona_End_bad_map.xxx": {
+    "offset": 266069,
+    "size": 4692,
+    "object": "Text_Kurona_End_bad_CHT"
+  },
+  "Kurona_End_normal_map.xxx": {
+    "offset": 476980,
+    "size": 8440,
+    "object": "Text_Kurona_End_normal_CHT"
+  },
+  "Kurona_End_true_map.xxx": {
+    "offset": 599979,
+    "size": 11702,
+    "object": "Text_Kurona_End_true_CHT"
+  },
+  "Kurona_ep7_2_map.xxx": {
+    "offset": 200700,
+    "size": 4591,
+    "object": "Text_Kurona_ep7_2_CHT"
+  },
+  "Kurona_ep7_3_map.xxx": {
+    "offset": 298251,
+    "size": 8229,
+    "object": "Text_Kurona_ep7_3_CHT"
+  },
+  "Kurona_ep7_4_map.xxx": {
+    "offset": 174451,
+    "size": 3304,
+    "object": "Text_Kurona_ep7_4_CHT"
+  },
+  "Maya_End_bad_map.xxx": {
+    "offset": 182793,
+    "size": 5537,
+    "object": "Text_Maya_End_bad_CHT"
+  },
+  "Maya_End_normal_map.xxx": {
+    "offset": 500595,
+    "size": 8530,
+    "object": "Text_Maya_End_normal_CHT"
+  },
+  "Maya_End_true_map.xxx": {
+    "offset": 593169,
+    "size": 10839,
+    "object": "Text_Maya_End_true_CHT"
+  },
+  "Maya_ep2_1_map.xxx": {
+    "offset": 479889,
+    "size": 9018,
+    "object": "Text_Maya_ep2_1_CHT"
+  },
+  "Maya_ep2_2_map.xxx": {
+    "offset": 128689,
+    "size": 1797,
+    "object": "Text_Maya_ep2_2_CHT"
+  },
+  "Maya_ep3_1_map.xxx": {
+    "offset": 101888,
+    "size": 1457,
+    "object": "Text_Maya_ep3_1_CHT"
+  },
+  "Maya_ep3_2_map.xxx": {
+    "offset": 182753,
+    "size": 3252,
+    "object": "Text_Maya_ep3_2_CHT"
+  },
+  "Maya_ep3_3_map.xxx": {
+    "offset": 462603,
+    "size": 9600,
+    "object": "Text_Maya_ep3_3_CHT"
+  },
+  "Maya_ep3_4_map.xxx": {
+    "offset": 409366,
+    "size": 10140,
+    "object": "Text_Maya_ep3_4_CHT"
+  },
+  "Maya_ep4_1_map.xxx": {
+    "offset": 131356,
+    "size": 1936,
+    "object": "Text_Maya_ep4_1_CHT"
+  },
+  "Maya_ep4_2_map.xxx": {
+    "offset": 365741,
+    "size": 7048,
+    "object": "Text_Maya_ep4_2_CHT"
+  },
+  "Maya_ep4_3_map.xxx": {
+    "offset": 254357,
+    "size": 6473,
+    "object": "Text_Maya_ep4_3_CHT"
+  },
+  "Maya_ep4_4_map.xxx": {
+    "offset": 484138,
+    "size": 11636,
+    "object": "Text_Maya_ep4_4_CHT"
+  },
+  "Maya_ep5_1_map.xxx": {
+    "offset": 91661,
+    "size": 2454,
+    "object": "Text_Maya_ep5_1_CHT"
+  },
+  "Maya_ep5_2_map.xxx": {
+    "offset": 320837,
+    "size": 7112,
+    "object": "Text_Maya_ep5_2_CHT"
+  },
+  "Maya_ep5_3_map.xxx": {
+    "offset": 463253,
+    "size": 8523,
+    "object": "Text_Maya_ep5_3_CHT"
+  },
+  "Maya_ep5_4_map.xxx": {
+    "offset": 722401,
+    "size": 13231,
+    "object": "Text_Maya_ep5_4_CHT"
+  },
+  "Maya_ep6_1_map.xxx": {
+    "offset": 99092,
+    "size": 3212,
+    "object": "Text_Maya_ep6_1_CHT"
+  },
+  "Maya_ep6_2_map.xxx": {
+    "offset": 242264,
+    "size": 6170,
+    "object": "Text_Maya_ep6_2_CHT"
+  },
+  "Maya_ep6_3_map.xxx": {
+    "offset": 74988,
+    "size": 2188,
+    "object": "Text_Maya_ep6_3_CHT"
+  },
+  "Maya_ep6_4_map.xxx": {
+    "offset": 601989,
+    "size": 13802,
+    "object": "Text_Maya_ep6_4_CHT"
+  },
+  "Maya_ep6_5_map.xxx": {
+    "offset": 90200,
+    "size": 2444,
+    "object": "Text_Maya_ep6_5_CHT"
+  },
+  "Maya_ep6_6_map.xxx": {
+    "offset": 371920,
+    "size": 8948,
+    "object": "Text_Maya_ep6_6_CHT"
+  },
+  "Maya_ep7_1_map.xxx": {
+    "offset": 241906,
+    "size": 6748,
+    "object": "Text_Maya_ep7_1_CHT"
+  },
+  "Maya_ep7_2_map.xxx": {
+    "offset": 279151,
+    "size": 8483,
+    "object": "Text_Maya_ep7_2_CHT"
+  },
+  "Maya_ep7_3_map.xxx": {
+    "offset": 255512,
+    "size": 6419,
+    "object": "Text_Maya_ep7_3_CHT"
+  },
+  "Patako_End_normal_map.xxx": {
+    "offset": 498664,
+    "size": 7860,
+    "object": "Text_Patako_End_normal_CHT"
+  },
+  "Patako_End_true_map.xxx": {
+    "offset": 596273,
+    "size": 10130,
+    "object": "Text_Patako_End_true_CHT"
+  },
+  "Patako_ep7_2_map.xxx": {
+    "offset": 652160,
+    "size": 10609,
+    "object": "Text_Patako_ep7_2_CHT"
+  },
+  "Patako_ep7_3_map.xxx": {
+    "offset": 138611,
+    "size": 2733,
+    "object": "Text_Patako_ep7_3_CHT"
+  },
+  "Shinobu_End_bad_map.xxx": {
+    "offset": 139541,
+    "size": 4197,
+    "object": "Text_Shinobu_End_bad_CHT"
+  },
+  "Shinobu_End_normal_map.xxx": {
+    "offset": 513427,
+    "size": 8682,
+    "object": "Text_Shinobu_End_normal_CHT"
+  },
+  "Shinobu_End_true_map.xxx": {
+    "offset": 594145,
+    "size": 11142,
+    "object": "Text_Shinobu_End_true_CHT"
+  },
+  "Shinobu_ep2_1_map.xxx": {
+    "offset": 482658,
+    "size": 10652,
+    "object": "Text_Shinobu_ep2_1_CHT"
+  },
+  "Shinobu_ep2_2_map.xxx": {
+    "offset": 135155,
+    "size": 3087,
+    "object": "Text_Shinobu_ep2_2_CHT"
+  },
+  "Shinobu_ep3_1_map.xxx": {
+    "offset": 89791,
+    "size": 2596,
+    "object": "Text_Shinobu_ep3_1_CHT"
+  },
+  "Shinobu_ep3_2_map.xxx": {
+    "offset": 183172,
+    "size": 4254,
+    "object": "Text_Shinobu_ep3_2_CHT"
+  },
+  "Shinobu_ep3_3_map.xxx": {
+    "offset": 562415,
+    "size": 12972,
+    "object": "Text_Shinobu_ep3_3_CHT"
+  },
+  "Shinobu_ep3_4_map.xxx": {
+    "offset": 390402,
+    "size": 8275,
+    "object": "Text_Shinobu_ep3_4_CHT"
+  },
+  "Shinobu_ep4_1_map.xxx": {
+    "offset": 113993,
+    "size": 2986,
+    "object": "Text_Shinobu_ep4_1_CHT"
+  },
+  "Shinobu_ep4_2_map.xxx": {
+    "offset": 414900,
+    "size": 10242,
+    "object": "Text_Shinobu_ep4_2_CHT"
+  },
+  "Shinobu_ep4_3_map.xxx": {
+    "offset": 472919,
+    "size": 9909,
+    "object": "Text_Shinobu_ep4_3_CHT"
+  },
+  "Shinobu_ep4_4_map.xxx": {
+    "offset": 631968,
+    "size": 12007,
+    "object": "Text_Shinobu_ep4_4_CHT"
+  },
+  "Shinobu_ep5_1_map.xxx": {
+    "offset": 154481,
+    "size": 3904,
+    "object": "Text_Shinobu_ep5_1_CHT"
+  },
+  "Shinobu_ep5_2_map.xxx": {
+    "offset": 241427,
+    "size": 6090,
+    "object": "Text_Shinobu_ep5_2_CHT"
+  },
+  "Shinobu_ep5_3_map.xxx": {
+    "offset": 329905,
+    "size": 8111,
+    "object": "Text_Shinobu_ep5_3_CHT"
+  },
+  "Shinobu_ep5_4_map.xxx": {
+    "offset": 590769,
+    "size": 11643,
+    "object": "Text_Shinobu_ep5_4_CHT"
+  },
+  "Shinobu_ep6_1_map.xxx": {
+    "offset": 168021,
+    "size": 6218,
+    "object": "Text_Shinobu_ep6_1_CHT"
+  },
+  "Shinobu_ep6_2_map.xxx": {
+    "offset": 217300,
+    "size": 5540,
+    "object": "Text_Shinobu_ep6_2_CHT"
+  },
+  "Shinobu_ep6_3_map.xxx": {
+    "offset": 366027,
+    "size": 9656,
+    "object": "Text_Shinobu_ep6_3_CHT"
+  },
+  "Shinobu_ep6_4_map.xxx": {
+    "offset": 92524,
+    "size": 2426,
+    "object": "Text_Shinobu_ep6_4_CHT"
+  },
+  "Shinobu_ep6_5_map.xxx": {
+    "offset": 257052,
+    "size": 6064,
+    "object": "Text_Shinobu_ep6_5_CHT"
+  },
+  "Shinobu_ep7_1_map.xxx": {
+    "offset": 253662,
+    "size": 6870,
+    "object": "Text_Shinobu_ep7_1_CHT"
+  },
+  "Shinobu_ep7_2_map.xxx": {
+    "offset": 336916,
+    "size": 9941,
+    "object": "Text_Shinobu_ep7_2_CHT"
+  },
+  "Shinobu_ep7_3_map.xxx": {
+    "offset": 349874,
+    "size": 7636,
+    "object": "Text_Shinobu_ep7_3_CHT"
+  },
+  "Sisters_End_bad_map.xxx": {
+    "offset": 169091,
+    "size": 5410,
+    "object": "Text_Sisters_End_bad_CHT"
+  },
+  "Sisters_End_normal_map.xxx": {
+    "offset": 280176,
+    "size": 6128,
+    "object": "Text_Sisters_End_normal_CHT"
+  },
+  "Sisters_End_true_map.xxx": {
+    "offset": 476134,
+    "size": 9816,
+    "object": "Text_Sisters_End_true_CHT"
+  },
+  "Sisters_ep2_1_map.xxx": {
+    "offset": 467977,
+    "size": 10818,
+    "object": "Text_Sisters_ep2_1_CHT"
+  },
+  "Sisters_ep2_2_map.xxx": {
+    "offset": 127869,
+    "size": 3087,
+    "object": "Text_Sisters_ep2_2_CHT"
+  },
+  "Sisters_ep3_1_map.xxx": {
+    "offset": 102930,
+    "size": 2821,
+    "object": "Text_Sisters_ep3_1_CHT"
+  },
+  "Sisters_ep3_2_map.xxx": {
+    "offset": 449832,
+    "size": 9772,
+    "object": "Text_Sisters_ep3_2_CHT"
+  },
+  "Sisters_ep3_3_map.xxx": {
+    "offset": 404338,
+    "size": 8332,
+    "object": "Text_Sisters_ep3_3_CHT"
+  },
+  "Sisters_ep3_4_map.xxx": {
+    "offset": 677609,
+    "size": 13598,
+    "object": "Text_Sisters_ep3_4_CHT"
+  },
+  "Sisters_ep4_1_map.xxx": {
+    "offset": 110614,
+    "size": 3295,
+    "object": "Text_Sisters_ep4_1_CHT"
+  },
+  "Sisters_ep4_2_map.xxx": {
+    "offset": 196442,
+    "size": 5871,
+    "object": "Text_Sisters_ep4_2_CHT"
+  },
+  "Sisters_ep4_3_map.xxx": {
+    "offset": 514507,
+    "size": 11379,
+    "object": "Text_Sisters_ep4_3_CHT"
+  },
+  "Sisters_ep5_1_map.xxx": {
+    "offset": 127170,
+    "size": 3525,
+    "object": "Text_Sisters_ep5_1_CHT"
+  },
+  "Sisters_ep5_2_map.xxx": {
+    "offset": 319154,
+    "size": 9679,
+    "object": "Text_Sisters_ep5_2_CHT"
+  },
+  "Sisters_ep5_3_map.xxx": {
+    "offset": 453657,
+    "size": 8803,
+    "object": "Text_Sisters_ep5_3_CHT"
+  },
+  "Sisters_ep5_4_map.xxx": {
+    "offset": 528712,
+    "size": 9962,
+    "object": "Text_Sisters_ep5_4_CHT"
+  },
+  "Sisters_ep6_1_map.xxx": {
+    "offset": 108670,
+    "size": 3344,
+    "object": "Text_Sisters_ep6_1_CHT"
+  },
+  "Sisters_ep6_2_map.xxx": {
+    "offset": 593631,
+    "size": 10766,
+    "object": "Text_Sisters_ep6_2_CHT"
+  },
+  "Sisters_ep6_3_map.xxx": {
+    "offset": 295130,
+    "size": 8317,
+    "object": "Text_Sisters_ep6_3_CHT"
+  },
+  "Sisters_ep6_4_map.xxx": {
+    "offset": 738347,
+    "size": 12283,
+    "object": "Text_Sisters_ep6_4_CHT"
+  },
+  "Sisters_ep7_1_map.xxx": {
+    "offset": 166319,
+    "size": 4839,
+    "object": "Text_Sisters_ep7_1_CHT"
+  },
+  "Sisters_ep7_2_map.xxx": {
+    "offset": 743100,
+    "size": 15694,
+    "object": "Text_Sisters_ep7_2_CHT"
+  },
+  "Sisters_ep7_3_map.xxx": {
+    "offset": 158569,
+    "size": 4485,
+    "object": "Text_Sisters_ep7_3_CHT"
+  },
+  "Tutorial_ActionEvent_Maya_map.xxx": {
+    "offset": 60875,
+    "size": 4446,
+    "object": "Text_Tutorial_ActionEvent_Maya_CHT"
+  },
+  "Tutorial_ActionEvent_Shino_map.xxx": {
+    "offset": 60877,
+    "size": 4512,
+    "object": "Text_Tutorial_ActionEvent_Shinobu_CHT"
+  },
+  "Tutorial_Destiny_map.xxx": {
+    "offset": 60775,
+    "size": 4350,
+    "object": "Text_Tutorial_Destiny_CHT"
+  },
+  "Tutorial_Devil_map.xxx": {
+    "offset": 52835,
+    "size": 3256,
+    "object": "Text_Tutorial_Devil_CHT"
+  },
+  "Tutorial_Dokidoki_map.xxx": {
+    "offset": 60819,
+    "size": 4460,
+    "object": "Text_Tutorial_Dokidoki_CHT"
+  },
+  "Tutorial_HeroineDokidoki_map.xxx": {
+    "offset": 60871,
+    "size": 4238,
+    "object": "Text_Tutorial_HeroineDokidoki_CHT"
+  },
+  "Tutorial_Shooting_map.xxx": {
+    "offset": 70275,
+    "size": 4526,
+    "object": "Text_Tutorial_Shooting_CHT"
+  }
+}
